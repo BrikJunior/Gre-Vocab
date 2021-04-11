@@ -1,9 +1,9 @@
-# Live view
+## Live view
 
 https://gre-words.netlify.app/
 
-# Add db_configg as per your firebase info provided and keep it confidential
-# Getting Started with Create React App
+### Add db_configg as per your firebase info provided and keep it confidential
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
