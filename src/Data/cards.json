@@ -1,0 +1,4652 @@
+{
+    "cards": [
+        {
+            "eng": "abacus",
+            "meaning": "frame with balls for calculating       "
+        },
+        {
+            "eng": "abate",
+            "meaning": "to lessen to subside        "
+        },
+        {
+            "eng": "abdication",
+            "meaning": "giving up control authority        "
+        },
+        {
+            "eng": "aberration",
+            "meaning": "straying away from what is normal      "
+        },
+        {
+            "eng": "abet",
+            "meaning": "help/encourage smb (in doing wrong)     "
+        },
+        {
+            "eng": "abeyance",
+            "meaning": "suspended action          "
+        },
+        {
+            "eng": "abhor",
+            "meaning": "to hate to detest        "
+        },
+        {
+            "eng": "abide",
+            "meaning": "be faithful to endure        "
+        },
+        {
+            "eng": "abjure",
+            "meaning": "promise or swear to give up      "
+        },
+        {
+            "eng": "abraded",
+            "meaning": "rubbed off worn away by friction      "
+        },
+        {
+            "eng": "abrogate",
+            "meaning": "repeal or annul by authority       "
+        },
+        {
+            "eng": "abscond",
+            "meaning": "to go away suddenly (to avoid arrest)     "
+        },
+        {
+            "eng": "abstruse",
+            "meaning": "difficult to comprehend obscure        "
+        },
+        {
+            "eng": "abut",
+            "meaning": "border on          "
+        },
+        {
+            "eng": "abysmal",
+            "meaning": "bottomless extreme          "
+        },
+        {
+            "eng": "acarpous",
+            "meaning": "effete no longer fertile worn out      "
+        },
+        {
+            "eng": "acclaimed",
+            "meaning": "welcomed with shouts and approval       "
+        },
+        {
+            "eng": "accolade",
+            "meaning": "praise approval          "
+        },
+        {
+            "eng": "accretion",
+            "meaning": "the growing of separate things into one     "
+        },
+        {
+            "eng": "adamant",
+            "meaning": "kind of stone inflexible        "
+        },
+        {
+            "eng": "admonitory",
+            "meaning": "containing warning          "
+        },
+        {
+            "eng": "adorn",
+            "meaning": "add beauty decorate         "
+        },
+        {
+            "eng": "adulteration",
+            "meaning": "making unpure poorer in quality       "
+        },
+        {
+            "eng": "affable",
+            "meaning": "polite and friendly       "
+        },
+        {
+            "eng": "affinity",
+            "meaning": "close connection relationship         "
+        },
+        {
+            "eng": "aggravate",
+            "meaning": "make worse irritate         "
+        },
+        {
+            "eng": "agile",
+            "meaning": "active quick-moving          "
+        },
+        {
+            "eng": "agog",
+            "meaning": "eager/excited         "
+        },
+        {
+            "eng": "ail",
+            "meaning": "trouble be ill         "
+        },
+        {
+            "eng": "alacrity",
+            "meaning": "eager and cheerful readiness        "
+        },
+        {
+            "eng": "alcove",
+            "meaning": "recess/partially enclosed place       "
+        },
+        {
+            "eng": "allegiance",
+            "meaning": "duty support loyalty         "
+        },
+        {
+            "eng": "alleviate",
+            "meaning": "make (pain) easier to bear       "
+        },
+        {
+            "eng": "alloy",
+            "meaning": "to debase by mixing with something inferior     "
+        },
+        {
+            "eng": "aloof",
+            "meaning": "reserved indifferent          "
+        },
+        {
+            "eng": "amalgamate",
+            "meaning": "mix combine unite societies        "
+        },
+        {
+            "eng": "ambidextrous",
+            "meaning": "able to use the left hand or the right equally well "
+        },
+        {
+            "eng": "ambiguous",
+            "meaning": "doubtful uncertain          "
+        },
+        {
+            "eng": "ambivalent",
+            "meaning": "having both of two contrary meanings      "
+        },
+        {
+            "eng": "ameliorate",
+            "meaning": "improve make better         "
+        },
+        {
+            "eng": "amortize",
+            "meaning": "end (a debt) by setting aside money     "
+        },
+        {
+            "eng": "anguish",
+            "meaning": "severe suffering        "
+        },
+        {
+            "eng": "animosity",
+            "meaning": "strong dislike          "
+        },
+        {
+            "eng": "antidote",
+            "meaning": "medicine used against a poison or a disease    "
+        },
+        {
+            "eng": "antithetical",
+            "meaning": "direct opposing          "
+        },
+        {
+            "eng": "apartheid",
+            "meaning": "brutal racial discrimination         "
+        },
+        {
+            "eng": "aplomb",
+            "meaning": "self-confidence           "
+        },
+        {
+            "eng": "apostate",
+            "meaning": "one who abandons long-held religious or political convictions    "
+        },
+        {
+            "eng": "apotheosis",
+            "meaning": "deification glorification to godliness        "
+        },
+        {
+            "eng": "appease",
+            "meaning": "make quiet or calm        "
+        },
+        {
+            "eng": "apprehensive",
+            "meaning": "grasping understanding fear unhappy feeling about future     "
+        },
+        {
+            "eng": "apprise",
+            "meaning": "give notice to inform        "
+        },
+        {
+            "eng": "approbation",
+            "meaning": "approval           "
+        },
+        {
+            "eng": "apropos",
+            "meaning": "appropriate to the situation apt       "
+        },
+        {
+            "eng": "apt",
+            "meaning": "well-suited quick-witted          "
+        },
+        {
+            "eng": "arabesque",
+            "meaning": "a complex ornate design        "
+        },
+        {
+            "eng": "arboreal",
+            "meaning": "of connected with trees        "
+        },
+        {
+            "eng": "ardor",
+            "meaning": "enthusiasm           "
+        },
+        {
+            "eng": "arduous",
+            "meaning": "steep difficult ascent laborious        "
+        },
+        {
+            "eng": "argot",
+            "meaning": "jargon slang          "
+        },
+        {
+            "eng": "arrant",
+            "meaning": "in the highest degree        "
+        },
+        {
+            "eng": "arrogance",
+            "meaning": "proud superior manner of behaviour       "
+        },
+        {
+            "eng": "articulate",
+            "meaning": "speak distinctly connect by joints       "
+        },
+        {
+            "eng": "ascend",
+            "meaning": "go or come up        "
+        },
+        {
+            "eng": "ascertain",
+            "meaning": "get to know         "
+        },
+        {
+            "eng": "ascetic",
+            "meaning": "practicing self-denial austere stark        "
+        },
+        {
+            "eng": "ascribe",
+            "meaning": "consider to be the origin of or belonging to   "
+        },
+        {
+            "eng": "aseptic",
+            "meaning": "surgically clean        "
+        },
+        {
+            "eng": "asperity",
+            "meaning": "roughness harshness ill temper irritability       "
+        },
+        {
+            "eng": "aspersion",
+            "meaning": "slander           "
+        },
+        {
+            "eng": "assail",
+            "meaning": "with attack violently         "
+        },
+        {
+            "eng": "assiduous",
+            "meaning": "diligent hard-working sedulous         "
+        },
+        {
+            "eng": "assuage",
+            "meaning": "make smth (pain desire) less       "
+        },
+        {
+            "eng": "asterisk",
+            "meaning": "the mark * (e.g.. omitted letters)      "
+        },
+        {
+            "eng": "astringent",
+            "meaning": "substance that shrinks         "
+        },
+        {
+            "eng": "astute",
+            "meaning": "clever quick at seeing to get an advantage    "
+        },
+        {
+            "eng": "atonement",
+            "meaning": "repayment death of Jesus        "
+        },
+        {
+            "eng": "attenuate",
+            "meaning": "make thin. weaken enervate        "
+        },
+        {
+            "eng": "attune",
+            "meaning": "bring into harmony       "
+        },
+        {
+            "eng": "audacious",
+            "meaning": "daring foolishly bold impudent        "
+        },
+        {
+            "eng": "augury",
+            "meaning": "omen sign          "
+        },
+        {
+            "eng": "august",
+            "meaning": "majestic venerable          "
+        },
+        {
+            "eng": "auspicious",
+            "meaning": "favorable successful prosperous         "
+        },
+        {
+            "eng": "austere",
+            "meaning": "severely moral and strict simple and plain     "
+        },
+        {
+            "eng": "auxiliary",
+            "meaning": "helping supporting          "
+        },
+        {
+            "eng": "aver",
+            "meaning": "affirm assert prove justify        "
+        },
+        {
+            "eng": "aversion",
+            "meaning": "strong dislike          "
+        },
+        {
+            "eng": "avid",
+            "meaning": "eager greedy          "
+        },
+        {
+            "eng": "avow",
+            "meaning": "admit. Declare openly         "
+        },
+        {
+            "eng": "baleful",
+            "meaning": "harmful ominous causing evil        "
+        },
+        {
+            "eng": "balk",
+            "meaning": "obstacle purposely to get on the way of    "
+        },
+        {
+            "eng": "baneful",
+            "meaning": "causing harm or ruin pernicious destructive      "
+        },
+        {
+            "eng": "barrage",
+            "meaning": "artificial obstacle built across a river      "
+        },
+        {
+            "eng": "barren",
+            "meaning": "not good enough unable to have young ones without value  "
+        },
+        {
+            "eng": "bask",
+            "meaning": "in enjoy warmth and light       "
+        },
+        {
+            "eng": "beatify",
+            "meaning": "to bless make happy or ascribe a virtue to   "
+        },
+        {
+            "eng": "bedizen",
+            "meaning": "to adorn especially in a cheap showy manner    "
+        },
+        {
+            "eng": "belabor",
+            "meaning": "beat hard        "
+        },
+        {
+            "eng": "bellicose",
+            "meaning": "belligerent pugnacious warlike         "
+        },
+        {
+            "eng": "belligerent",
+            "meaning": "(person nation) waging war        "
+        },
+        {
+            "eng": "benefactor",
+            "meaning": "person who has given help       "
+        },
+        {
+            "eng": "benevolence",
+            "meaning": "wish or activity in doing good      "
+        },
+        {
+            "eng": "benign",
+            "meaning": "kind and gentle mild (climate)       "
+        },
+        {
+            "eng": "bequest",
+            "meaning": "arrangement to give smth at death      "
+        },
+        {
+            "eng": "berate",
+            "meaning": "scold sharply          "
+        },
+        {
+            "eng": "bereft",
+            "meaning": "rob or dispossess of smth (material)      "
+        },
+        {
+            "eng": "bewilder",
+            "meaning": "puzzle confuse          "
+        },
+        {
+            "eng": "bigot",
+            "meaning": "stubborn narrow-minded person         "
+        },
+        {
+            "eng": "bilge",
+            "meaning": "bulge the protuberance of a cask      "
+        },
+        {
+            "eng": "blandishment",
+            "meaning": "flattery coaxing          "
+        },
+        {
+            "eng": "blandness",
+            "meaning": "polite manner comforting uninteresting        "
+        },
+        {
+            "eng": "blatant",
+            "meaning": "noisy and rough         "
+        },
+        {
+            "eng": "blithe",
+            "meaning": "cheerful casual carefree         "
+        },
+        {
+            "eng": "bogus",
+            "meaning": "sham counterfeit not genuine        "
+        },
+        {
+            "eng": "boisterous",
+            "meaning": "loud noisy rough lacking restraint       "
+        },
+        {
+            "eng": "bolster",
+            "meaning": "give greatly needed support        "
+        },
+        {
+            "eng": "boorish",
+            "meaning": "crude offensive rude         "
+        },
+        {
+            "eng": "brash",
+            "meaning": "hasty rush cheeky saucy        "
+        },
+        {
+            "eng": "brass",
+            "meaning": "yellow metal (mixing copper and zinc)      "
+        },
+        {
+            "eng": "brazen",
+            "meaning": "made of brass         "
+        },
+        {
+            "eng": "breach",
+            "meaning": "opening broken place breaking        "
+        },
+        {
+            "eng": "brittle",
+            "meaning": "easily broken          "
+        },
+        {
+            "eng": "broach",
+            "meaning": "bring up announce begin to talk about     "
+        },
+        {
+            "eng": "brook",
+            "meaning": "to tolerate endure         "
+        },
+        {
+            "eng": "buoyant",
+            "meaning": "able to float light-hearted        "
+        },
+        {
+            "eng": "burgeon",
+            "meaning": "grow forth send out buds       "
+        },
+        {
+            "eng": "burnish",
+            "meaning": "to polish rub to a shine      "
+        },
+        {
+            "eng": "cabal",
+            "meaning": "a scheme or plot a group of plotters    "
+        },
+        {
+            "eng": "cadge",
+            "meaning": "to beg to get by begging      "
+        },
+        {
+            "eng": "cajole",
+            "meaning": "use flattery or deceit to persuade    "
+        },
+        {
+            "eng": "calipers",
+            "meaning": "metal supports attached to the legs measuring instrument    "
+        },
+        {
+            "eng": "calumny",
+            "meaning": "slander aspersion          "
+        },
+        {
+            "eng": "candid",
+            "meaning": "frank straight-forward          "
+        },
+        {
+            "eng": "cant",
+            "meaning": "insincere talk/jargon        "
+        },
+        {
+            "eng": "cantankerous",
+            "meaning": "bad-tempered/quarrelsome         "
+        },
+        {
+            "eng": "canvass",
+            "meaning": "discuss thoroughly sort of touting       "
+        },
+        {
+            "eng": "castigate",
+            "meaning": "to chastise correct by punishing       "
+        },
+        {
+            "eng": "castigation",
+            "meaning": "severe punishment          "
+        },
+        {
+            "eng": "catalyst",
+            "meaning": "substance that causes speeding up       "
+        },
+        {
+            "eng": "caustic",
+            "meaning": "biting sarcastic          "
+        },
+        {
+            "eng": "censure",
+            "meaning": "expression of blame or disapproval a rebuke     "
+        },
+        {
+            "eng": "centurion",
+            "meaning": "leader of a unit of 100 soldiers     "
+        },
+        {
+            "eng": "chary",
+            "meaning": "cautious wary          "
+        },
+        {
+            "eng": "chastened",
+            "meaning": "corrected punished          "
+        },
+        {
+            "eng": "chastisement",
+            "meaning": "punishment           "
+        },
+        {
+            "eng": "chauvinist",
+            "meaning": "a blindly devoted patriot        "
+        },
+        {
+            "eng": "chicanery",
+            "meaning": "legal trickery/false argument       "
+        },
+        {
+            "eng": "chisel",
+            "meaning": "steel tool for shaping materials       "
+        },
+        {
+            "eng": "churl",
+            "meaning": "bad-tempered person          "
+        },
+        {
+            "eng": "clamor",
+            "meaning": "shout complain with a lot of noise     "
+        },
+        {
+            "eng": "clientele",
+            "meaning": "customers         "
+        },
+        {
+            "eng": "clinch",
+            "meaning": "come to grips/settle conclusively      "
+        },
+        {
+            "eng": "cling",
+            "meaning": "to resist separation         "
+        },
+        {
+            "eng": "clot",
+            "meaning": "half-solid lump formed from liquid       "
+        },
+        {
+            "eng": "cloture",
+            "meaning": "closing device (in Parliament) to end a debate by voting  "
+        },
+        {
+            "eng": "coagulation",
+            "meaning": "change to a thick and solid state   "
+        },
+        {
+            "eng": "coalescing",
+            "meaning": "coming together and uniting into one substance     "
+        },
+        {
+            "eng": "coax",
+            "meaning": "get smb to do smth by kindness     "
+        },
+        {
+            "eng": "coda",
+            "meaning": "passage that completes a piece of music   "
+        },
+        {
+            "eng": "coddle",
+            "meaning": "treat with care and tenderness       "
+        },
+        {
+            "eng": "coerce",
+            "meaning": "compel to force to make obedient      "
+        },
+        {
+            "eng": "coeval",
+            "meaning": "of the same period coexisting       "
+        },
+        {
+            "eng": "cogent",
+            "meaning": "strong convincing          "
+        },
+        {
+            "eng": "cogitate",
+            "meaning": "think deeply mediate         "
+        },
+        {
+            "eng": "cognizant",
+            "meaning": "being fully aware of        "
+        },
+        {
+            "eng": "colander",
+            "meaning": "bowl-shaped vessel with many holes used to drain off water  "
+        },
+        {
+            "eng": "collusion",
+            "meaning": "secret agreement for a deceitful purpose      "
+        },
+        {
+            "eng": "combustion",
+            "meaning": "process of burning         "
+        },
+        {
+            "eng": "commemorate",
+            "meaning": "keep the memory of        "
+        },
+        {
+            "eng": "commodious",
+            "meaning": "having plenty of space for what is needed  "
+        },
+        {
+            "eng": "commuter",
+            "meaning": "person who travels regularly        "
+        },
+        {
+            "eng": "complaisance",
+            "meaning": "tending to comply obliging willingness to please     "
+        },
+        {
+            "eng": "compunction",
+            "meaning": "feeling of regret for one's action      "
+        },
+        {
+            "eng": "conceal",
+            "meaning": "hide keep secret         "
+        },
+        {
+            "eng": "conceit",
+            "meaning": "over-high opinion of too much pride      "
+        },
+        {
+            "eng": "conciliatory",
+            "meaning": "reconciling soothing comforting mollifying        "
+        },
+        {
+            "eng": "concord",
+            "meaning": "agreement or harmony         "
+        },
+        {
+            "eng": "concur",
+            "meaning": "agree in opinion happen together       "
+        },
+        {
+            "eng": "condense",
+            "meaning": "increase in density strength make laconic      "
+        },
+        {
+            "eng": "condone",
+            "meaning": "forgive           "
+        },
+        {
+            "eng": "congeal",
+            "meaning": "make or become stiff and solid      "
+        },
+        {
+            "eng": "conjoin",
+            "meaning": "to join together         "
+        },
+        {
+            "eng": "connoisseur",
+            "meaning": "a person with good judgement (e.g.. in art)    "
+        },
+        {
+            "eng": "connotation",
+            "meaning": "suggestion in addition to        "
+        },
+        {
+            "eng": "consequential",
+            "meaning": "pompous self important         "
+        },
+        {
+            "eng": "console",
+            "meaning": "give comfort or sympathy to       "
+        },
+        {
+            "eng": "conspicuous",
+            "meaning": "easily seen remarkable         "
+        },
+        {
+            "eng": "consternation",
+            "meaning": "surprise and fear dismay        "
+        },
+        {
+            "eng": "constrain",
+            "meaning": "compel         "
+        },
+        {
+            "eng": "constrict",
+            "meaning": "make tight or smaller        "
+        },
+        {
+            "eng": "consume",
+            "meaning": "get to the end of       "
+        },
+        {
+            "eng": "consummate",
+            "meaning": "perfect/make perfect/complete        "
+        },
+        {
+            "eng": "contemn",
+            "meaning": "to scorn or despise        "
+        },
+        {
+            "eng": "contentious",
+            "meaning": "argumentative pugnacious combative quarrelsome        "
+        },
+        {
+            "eng": "contiguous",
+            "meaning": "touching neighboring near         "
+        },
+        {
+            "eng": "contrite",
+            "meaning": "filled with deep sorrow for wrongdoing      "
+        },
+        {
+            "eng": "contumacious",
+            "meaning": "insubordinate rebellious          "
+        },
+        {
+            "eng": "conundrum",
+            "meaning": "a riddle dilemma enigma        "
+        },
+        {
+            "eng": "conviction",
+            "meaning": "convincing firm belief         "
+        },
+        {
+            "eng": "convoke",
+            "meaning": "call together summon         "
+        },
+        {
+            "eng": "convoluted",
+            "meaning": "complicated coiled twisted         "
+        },
+        {
+            "eng": "cordial",
+            "meaning": "warm and sincere         "
+        },
+        {
+            "eng": "cordon",
+            "meaning": "line (of police acting as a guard)     "
+        },
+        {
+            "eng": "cornucopia",
+            "meaning": "abundant supply        "
+        },
+        {
+            "eng": "corporeal",
+            "meaning": "physical of or for the body      "
+        },
+        {
+            "eng": "correlate",
+            "meaning": "have a mutual relation        "
+        },
+        {
+            "eng": "corroboration",
+            "meaning": "additional strengthening evidence         "
+        },
+        {
+            "eng": "countenance",
+            "meaning": "to favor or approve of       "
+        },
+        {
+            "eng": "counterfeit",
+            "meaning": "forgery           "
+        },
+        {
+            "eng": "countervail",
+            "meaning": "counterbalance           "
+        },
+        {
+            "eng": "covert",
+            "meaning": "disguised           "
+        },
+        {
+            "eng": "covetous",
+            "meaning": "eagerly desirous          "
+        },
+        {
+            "eng": "cower",
+            "meaning": "crouch shrink back         "
+        },
+        {
+            "eng": "coy",
+            "meaning": "shy/modest (esp of a girl)     "
+        },
+        {
+            "eng": "crass",
+            "meaning": "very great (es. stupidity)      "
+        },
+        {
+            "eng": "cravat",
+            "meaning": "piece of linen worn as a necktie   "
+        },
+        {
+            "eng": "craven",
+            "meaning": "cowardly           "
+        },
+        {
+            "eng": "crease",
+            "meaning": "line made by crushing white line on the ground in cricket "
+        },
+        {
+            "eng": "credulity",
+            "meaning": "too great a readiness to believe things     "
+        },
+        {
+            "eng": "credulous",
+            "meaning": "ready to believe things        "
+        },
+        {
+            "eng": "crush",
+            "meaning": "press lose shape subdue overwhelm       "
+        },
+        {
+            "eng": "cryptic",
+            "meaning": "secret with a hidden meaning       "
+        },
+        {
+            "eng": "cumbersome",
+            "meaning": "burdensome heavy and awkward to carry      "
+        },
+        {
+            "eng": "curmudgeon",
+            "meaning": "bad-tempered person          "
+        },
+        {
+            "eng": "curriculum",
+            "meaning": "course of study         "
+        },
+        {
+            "eng": "cursory",
+            "meaning": "quick hurried          "
+        },
+        {
+            "eng": "curtail",
+            "meaning": "make shorter then was planned       "
+        },
+        {
+            "eng": "dainty",
+            "meaning": "pretty/delicate(food)/difficult to please       "
+        },
+        {
+            "eng": "daunt",
+            "meaning": "intimidate make fearful         "
+        },
+        {
+            "eng": "dawdler",
+            "meaning": "person who is slow waste of time     "
+        },
+        {
+            "eng": "dearth",
+            "meaning": "shortage           "
+        },
+        {
+            "eng": "debacle",
+            "meaning": "a breakup overthrow sudden disaster       "
+        },
+        {
+            "eng": "decorum",
+            "meaning": "propriety properness          "
+        },
+        {
+            "eng": "decree",
+            "meaning": "order given by authority        "
+        },
+        {
+            "eng": "decry",
+            "meaning": "disapprove of          "
+        },
+        {
+            "eng": "defer",
+            "meaning": "postpone give way (to show respect)      "
+        },
+        {
+            "eng": "deferential",
+            "meaning": "showing respect          "
+        },
+        {
+            "eng": "defiance",
+            "meaning": "open disobedience or resistance        "
+        },
+        {
+            "eng": "delineate",
+            "meaning": "to portray depict sketch out       "
+        },
+        {
+            "eng": "deluge",
+            "meaning": "great flood heavy rush of water      "
+        },
+        {
+            "eng": "demagogue",
+            "meaning": "person appealing not to reasons       "
+        },
+        {
+            "eng": "demur",
+            "meaning": "to hesitate raise objections        "
+        },
+        {
+            "eng": "denigrate",
+            "meaning": "blacken belittle sully defame        "
+        },
+        {
+            "eng": "denouement",
+            "meaning": "an outcome or solution the unraveling of a plot   "
+        },
+        {
+            "eng": "deplete",
+            "meaning": "use until none remains        "
+        },
+        {
+            "eng": "deposition",
+            "meaning": "dethronement depositing          "
+        },
+        {
+            "eng": "deprave",
+            "meaning": "make morally bad corrupt        "
+        },
+        {
+            "eng": "deprecate",
+            "meaning": "protest against express disapproval of       "
+        },
+        {
+            "eng": "dereliction",
+            "meaning": "deserting and leaving to fall into ruins     "
+        },
+        {
+            "eng": "derision",
+            "meaning": "ridicule mockery deriding         "
+        },
+        {
+            "eng": "derivative",
+            "meaning": "unoriginal obtained from another source       "
+        },
+        {
+            "eng": "derogatory",
+            "meaning": "insulting tending to damage        "
+        },
+        {
+            "eng": "descry",
+            "meaning": "catch sight of see smth in the distance    "
+        },
+        {
+            "eng": "desiccant",
+            "meaning": "substance used to absorb moisture       "
+        },
+        {
+            "eng": "desuetude",
+            "meaning": "cessation of use disuse        "
+        },
+        {
+            "eng": "desultory",
+            "meaning": "aimless haphazard digressing at random       "
+        },
+        {
+            "eng": "deter",
+            "meaning": "discourage hinder          "
+        },
+        {
+            "eng": "detraction",
+            "meaning": "slandering verbal attack aspersion        "
+        },
+        {
+            "eng": "detumescence",
+            "meaning": "diminishing or lessening of swelling       "
+        },
+        {
+            "eng": "deviance",
+            "meaning": "being different in moral standards (from normal)     "
+        },
+        {
+            "eng": "dexterity",
+            "meaning": "skill (esp. in handling)        "
+        },
+        {
+            "eng": "diaphanous",
+            "meaning": "transparent gauzy          "
+        },
+        {
+            "eng": "diatribe",
+            "meaning": "bitter and violent attack in words      "
+        },
+        {
+            "eng": "diffidence",
+            "meaning": "shyness           "
+        },
+        {
+            "eng": "dilate",
+            "meaning": "speak comprehensively become wider large       "
+        },
+        {
+            "eng": "disallow",
+            "meaning": "refuse to allow or accept as a correct    "
+        },
+        {
+            "eng": "discern",
+            "meaning": "see with an effort but clearly      "
+        },
+        {
+            "eng": "discomfit",
+            "meaning": "confuse embarrass          "
+        },
+        {
+            "eng": "disconcert",
+            "meaning": "upset the self-possession of        "
+        },
+        {
+            "eng": "discountenance",
+            "meaning": "refuse to approve of        "
+        },
+        {
+            "eng": "discourse",
+            "meaning": "speech lecture          "
+        },
+        {
+            "eng": "discredit",
+            "meaning": "refuse to believe         "
+        },
+        {
+            "eng": "discreet",
+            "meaning": "careful/prudent         "
+        },
+        {
+            "eng": "discrete",
+            "meaning": "individually distinct        "
+        },
+        {
+            "eng": "disdain",
+            "meaning": "look on with contempt        "
+        },
+        {
+            "eng": "disencumber",
+            "meaning": "free from encumbrance         "
+        },
+        {
+            "eng": "disheveled",
+            "meaning": "untidy           "
+        },
+        {
+            "eng": "disingenuous",
+            "meaning": "sophisticated artful trying to deceive cunning      "
+        },
+        {
+            "eng": "disinter",
+            "meaning": "dig up from the earth       "
+        },
+        {
+            "eng": "dislodge",
+            "meaning": "move force from the place occupied      "
+        },
+        {
+            "eng": "dismal",
+            "meaning": "sad gloomy miserable         "
+        },
+        {
+            "eng": "disparate",
+            "meaning": "essentially different          "
+        },
+        {
+            "eng": "disproof",
+            "meaning": "proof to the contrary      "
+        },
+        {
+            "eng": "dissemble",
+            "meaning": "speak or behave so as to hide smth (in mind)  "
+        },
+        {
+            "eng": "disseminate",
+            "meaning": "distribute (esp. ideas)         "
+        },
+        {
+            "eng": "dissent",
+            "meaning": "have a different opinion refuse to assent     "
+        },
+        {
+            "eng": "dissolution",
+            "meaning": "disintegration looseness in morals        "
+        },
+        {
+            "eng": "distraught",
+            "meaning": "distracted violently upset in mind       "
+        },
+        {
+            "eng": "divergence",
+            "meaning": "getting farther apart from a point      "
+        },
+        {
+            "eng": "divestiture",
+            "meaning": "taking off getting rid of giving up     "
+        },
+        {
+            "eng": "divulge",
+            "meaning": "make known smth secret        "
+        },
+        {
+            "eng": "doggerel",
+            "meaning": "trivial poorly constructed verse        "
+        },
+        {
+            "eng": "dogmatic",
+            "meaning": "positive certain arbitrary without room for discussion     "
+        },
+        {
+            "eng": "dolt",
+            "meaning": "stupid fellow          "
+        },
+        {
+            "eng": "dormant",
+            "meaning": "in a state of inactivity but awaiting development    "
+        },
+        {
+            "eng": "dote",
+            "meaning": "show much fondness center one's attention      "
+        },
+        {
+            "eng": "drawl",
+            "meaning": "slow way of speaking      "
+        },
+        {
+            "eng": "droll",
+            "meaning": "jesting         "
+        },
+        {
+            "eng": "drone",
+            "meaning": "male bee person who isn't self-employed      "
+        },
+        {
+            "eng": "drowsiness",
+            "meaning": "feeling sleepy half asleep        "
+        },
+        {
+            "eng": "dubious",
+            "meaning": "feeling doubt          "
+        },
+        {
+            "eng": "dud",
+            "meaning": "no use person smth that fails      "
+        },
+        {
+            "eng": "dulcet",
+            "meaning": "melodious harmonious          "
+        },
+        {
+            "eng": "dupe",
+            "meaning": "cheat make a fool of       "
+        },
+        {
+            "eng": "duplicity",
+            "meaning": "deliberate deception          "
+        },
+        {
+            "eng": "duress",
+            "meaning": "threats to compel smb        "
+        },
+        {
+            "eng": "dwarf",
+            "meaning": "person or smb much below the usual size    "
+        },
+        {
+            "eng": "dynamo",
+            "meaning": "a generator something that produces electric current     "
+        },
+        {
+            "eng": "earthenware",
+            "meaning": "dishes made of baked clay       "
+        },
+        {
+            "eng": "ebullience",
+            "meaning": "exuberance outburst of feeling        "
+        },
+        {
+            "eng": "ebullient",
+            "meaning": "overflowing with enthusiasm showing excitement       "
+        },
+        {
+            "eng": "ecumenical",
+            "meaning": "representing the whole Christian world       "
+        },
+        {
+            "eng": "edacious",
+            "meaning": "voracious devouring          "
+        },
+        {
+            "eng": "eddy",
+            "meaning": "circular or spiral movement (e.g.. of wind)     "
+        },
+        {
+            "eng": "edible",
+            "meaning": "fit to be eaten/not poisonous     "
+        },
+        {
+            "eng": "effete",
+            "meaning": "infertile worn out weak        "
+        },
+        {
+            "eng": "efficacy",
+            "meaning": "production of a desired result       "
+        },
+        {
+            "eng": "effluvia",
+            "meaning": "outflow in a stream of particles a noxious odor or vapor "
+        },
+        {
+            "eng": "effrontery",
+            "meaning": "boldness impudence arrogance         "
+        },
+        {
+            "eng": "egress",
+            "meaning": "way out exit         "
+        },
+        {
+            "eng": "elaborate",
+            "meaning": "worked out with much care in great detail    "
+        },
+        {
+            "eng": "elegy",
+            "meaning": "a lament a melancholy composition       "
+        },
+        {
+            "eng": "elicit",
+            "meaning": "draw out          "
+        },
+        {
+            "eng": "eloquence",
+            "meaning": "fluent speaking skillful use of language      "
+        },
+        {
+            "eng": "emaciate",
+            "meaning": "make thin and weak        "
+        },
+        {
+            "eng": "embellish",
+            "meaning": "make beautiful          "
+        },
+        {
+            "eng": "embezzle",
+            "meaning": "use in a wrong way for one's own benefit   "
+        },
+        {
+            "eng": "emote",
+            "meaning": "stir up excite         "
+        },
+        {
+            "eng": "empirical",
+            "meaning": "relying on experiment         "
+        },
+        {
+            "eng": "encapsulate",
+            "meaning": "enclose in capsule         "
+        },
+        {
+            "eng": "encomium",
+            "meaning": "warm or glowing praise eulogy panegyric      "
+        },
+        {
+            "eng": "encumbrance",
+            "meaning": "burden things that get on the way of    "
+        },
+        {
+            "eng": "endearing",
+            "meaning": "making dear or liked        "
+        },
+        {
+            "eng": "endemic",
+            "meaning": "epidemic           "
+        },
+        {
+            "eng": "endorse",
+            "meaning": "write one's name on the back of     "
+        },
+        {
+            "eng": "enduring",
+            "meaning": "lasting           "
+        },
+        {
+            "eng": "enervate",
+            "meaning": "weaken deprive of strength attenuate       "
+        },
+        {
+            "eng": "engender",
+            "meaning": "cause produce give rise to       "
+        },
+        {
+            "eng": "engrave",
+            "meaning": "impress deeply          "
+        },
+        {
+            "eng": "engrossing",
+            "meaning": "taken up all the time or attention writing in large or formal"
+        },
+        {
+            "eng": "engulf",
+            "meaning": "swallow up          "
+        },
+        {
+            "eng": "enigma",
+            "meaning": "smth that is puzzling        "
+        },
+        {
+            "eng": "enmity",
+            "meaning": "hatred being an enemy        "
+        },
+        {
+            "eng": "ensign",
+            "meaning": "flag/badge         "
+        },
+        {
+            "eng": "entangle",
+            "meaning": "put into difficulties         "
+        },
+        {
+            "eng": "enthral",
+            "meaning": "please greatly/enslave (fig)       "
+        },
+        {
+            "eng": "entice",
+            "meaning": "tempt or persuade       "
+        },
+        {
+            "eng": "entreat",
+            "meaning": "ask earnestly          "
+        },
+        {
+            "eng": "enunciate",
+            "meaning": "pronounce (words)/express a theory      "
+        },
+        {
+            "eng": "enzyme",
+            "meaning": "catalyst           "
+        },
+        {
+            "eng": "epicurean",
+            "meaning": "devoted to pleasure (sensuous enjoyment)       "
+        },
+        {
+            "eng": "epistle",
+            "meaning": "letter           "
+        },
+        {
+            "eng": "epithet",
+            "meaning": "adjective           "
+        },
+        {
+            "eng": "epitome",
+            "meaning": "brief summary representative example a typical model     "
+        },
+        {
+            "eng": "equable",
+            "meaning": "steady regular          "
+        },
+        {
+            "eng": "equanimity",
+            "meaning": "calmness of temperament         "
+        },
+        {
+            "eng": "equilibrium",
+            "meaning": "state of being balanced        "
+        },
+        {
+            "eng": "equipoise",
+            "meaning": "equal distribution of weight equilibrium       "
+        },
+        {
+            "eng": "equivocal",
+            "meaning": "having a double or doubtful meaning suspicious     "
+        },
+        {
+            "eng": "equivocate",
+            "meaning": "try to deceive by equivocal language      "
+        },
+        {
+            "eng": "eradicate",
+            "meaning": "get rid of pull up by the roots    "
+        },
+        {
+            "eng": "erratic",
+            "meaning": "irregular in behaviour or opinion       "
+        },
+        {
+            "eng": "erudite",
+            "meaning": "learned scholarly          "
+        },
+        {
+            "eng": "eschew",
+            "meaning": "avoid         "
+        },
+        {
+            "eng": "esoteric",
+            "meaning": "abstruse intended only for a small circle of    "
+        },
+        {
+            "eng": "espouse",
+            "meaning": "marry give one's support to       "
+        },
+        {
+            "eng": "eulogy",
+            "meaning": "formal praise panegyric         "
+        },
+        {
+            "eng": "euphoria",
+            "meaning": "elation state of pleasant excitement       "
+        },
+        {
+            "eng": "euthanasia",
+            "meaning": "easy and painless death        "
+        },
+        {
+            "eng": "evasive",
+            "meaning": "tending to evade       "
+        },
+        {
+            "eng": "evince",
+            "meaning": "to show clearly to indicate       "
+        },
+        {
+            "eng": "evoke",
+            "meaning": "call up bring out        "
+        },
+        {
+            "eng": "excoriation",
+            "meaning": "severe criticism          "
+        },
+        {
+            "eng": "exculpate",
+            "meaning": "to clear from a charge of guilt     "
+        },
+        {
+            "eng": "exhaustive",
+            "meaning": "complete thorough          "
+        },
+        {
+            "eng": "exigency",
+            "meaning": "emergency an urgent situation        "
+        },
+        {
+            "eng": "exoneration",
+            "meaning": "set smb clear free (e.g.. from blame)     "
+        },
+        {
+            "eng": "exorbitant",
+            "meaning": "much too high or great       "
+        },
+        {
+            "eng": "expatiate",
+            "meaning": "to roam wander freely        "
+        },
+        {
+            "eng": "expedient",
+            "meaning": "likely to be useful for a purpose     "
+        },
+        {
+            "eng": "expiation",
+            "meaning": "ending expiring          "
+        },
+        {
+            "eng": "exploit",
+            "meaning": "brilliant achievement develop use selfishly       "
+        },
+        {
+            "eng": "expostulate",
+            "meaning": "argue earnestly to dissuade correct or protest     "
+        },
+        {
+            "eng": "expurgate",
+            "meaning": "to remove obscenity purify censor       "
+        },
+        {
+            "eng": "exscind",
+            "meaning": "to cut out cut away       "
+        },
+        {
+            "eng": "extant",
+            "meaning": "still in existence         "
+        },
+        {
+            "eng": "extempore",
+            "meaning": "without previous thought or preparation     "
+        },
+        {
+            "eng": "extenuate",
+            "meaning": "reduce the strength of lessen seriousness partially excuse    "
+        },
+        {
+            "eng": "extinct",
+            "meaning": "no longer active         "
+        },
+        {
+            "eng": "extinguish",
+            "meaning": "end the existence of/wipe or put out   "
+        },
+        {
+            "eng": "extirpate",
+            "meaning": "to destroy exterminate cut out exscind      "
+        },
+        {
+            "eng": "extol",
+            "meaning": "praise highly          "
+        },
+        {
+            "eng": "extort",
+            "meaning": "obtain by threats violence        "
+        },
+        {
+            "eng": "extralegal",
+            "meaning": "outside the law         "
+        },
+        {
+            "eng": "extricable",
+            "meaning": "that can be freed        "
+        },
+        {
+            "eng": "extrovert",
+            "meaning": "cheerful person          "
+        },
+        {
+            "eng": "exuberance",
+            "meaning": "state of growing vigorously being full of life    "
+        },
+        {
+            "eng": "facetious",
+            "meaning": "humorous funny jocular         "
+        },
+        {
+            "eng": "facile",
+            "meaning": "easily done          "
+        },
+        {
+            "eng": "fallacious",
+            "meaning": "based on error         "
+        },
+        {
+            "eng": "falter",
+            "meaning": "waver/move in an uncertain manner     "
+        },
+        {
+            "eng": "fatuous",
+            "meaning": "without sense foolish self-satisfaction        "
+        },
+        {
+            "eng": "fawn",
+            "meaning": "young deer try to win smb's favor     "
+        },
+        {
+            "eng": "feckless",
+            "meaning": "lacking purpose or vitality ineffective careless      "
+        },
+        {
+            "eng": "fecund",
+            "meaning": "fertile           "
+        },
+        {
+            "eng": "feint",
+            "meaning": "pretend           "
+        },
+        {
+            "eng": "felicitous",
+            "meaning": "apt suitably expressed well chosen apropos      "
+        },
+        {
+            "eng": "felon",
+            "meaning": "person guilty of murder        "
+        },
+        {
+            "eng": "ferment",
+            "meaning": "substance become excited         "
+        },
+        {
+            "eng": "ferocity",
+            "meaning": "savage cruelty          "
+        },
+        {
+            "eng": "ferret",
+            "meaning": "discover by searching search        "
+        },
+        {
+            "eng": "fervid",
+            "meaning": "showing earnest feeling         "
+        },
+        {
+            "eng": "fervor",
+            "meaning": "warmth of feelings earnestness        "
+        },
+        {
+            "eng": "fetid",
+            "meaning": "stinking         "
+        },
+        {
+            "eng": "fetter",
+            "meaning": "to shackle put in chains       "
+        },
+        {
+            "eng": "feud",
+            "meaning": "bitter quarrel over a long period of time    "
+        },
+        {
+            "eng": "fidelity",
+            "meaning": "loyalty accuracy          "
+        },
+        {
+            "eng": "fidget",
+            "meaning": "move restlessly make nervous        "
+        },
+        {
+            "eng": "figurehead",
+            "meaning": "carved image on the prow of a ship    "
+        },
+        {
+            "eng": "finesse",
+            "meaning": "delicate way of dealing with a situation     "
+        },
+        {
+            "eng": "finical",
+            "meaning": "too fussy about food clothing etc.      "
+        },
+        {
+            "eng": "finicky",
+            "meaning": "finical           "
+        },
+        {
+            "eng": "fission",
+            "meaning": "splitting or division (esp. of cells)      "
+        },
+        {
+            "eng": "fixate",
+            "meaning": "stare at          "
+        },
+        {
+            "eng": "flak",
+            "meaning": "criticism/anti-aircraft guns        "
+        },
+        {
+            "eng": "flamboyant",
+            "meaning": "brightly colored florid         "
+        },
+        {
+            "eng": "flaunting",
+            "meaning": "show off complacently         "
+        },
+        {
+            "eng": "flax",
+            "meaning": "pale yellow (hair) a plant       "
+        },
+        {
+            "eng": "fledged",
+            "meaning": "able to fly trained experienced       "
+        },
+        {
+            "eng": "fleet",
+            "meaning": "number of ships quick-moving        "
+        },
+        {
+            "eng": "flinch",
+            "meaning": "draw move back wince        "
+        },
+        {
+            "eng": "flop",
+            "meaning": "fail/move/fall clumsily        "
+        },
+        {
+            "eng": "florid",
+            "meaning": "very much ornamented naturally red (e.g.. of face)    "
+        },
+        {
+            "eng": "flout",
+            "meaning": "reject mock to go against (as in going against tradition)  "
+        },
+        {
+            "eng": "fluke",
+            "meaning": "lucky stroke        "
+        },
+        {
+            "eng": "fluster",
+            "meaning": "make nervous or confused        "
+        },
+        {
+            "eng": "foible",
+            "meaning": "defect of character (a person is wrongly proud)    "
+        },
+        {
+            "eng": "foil",
+            "meaning": "prevent from carrying out contrast       "
+        },
+        {
+            "eng": "foment",
+            "meaning": "put smth warm (to lessen the pain)     "
+        },
+        {
+            "eng": "foolproof",
+            "meaning": "incapable of failure or error     "
+        },
+        {
+            "eng": "foppish",
+            "meaning": "like a man who pays too much attention to his clothes "
+        },
+        {
+            "eng": "forage",
+            "meaning": "food for horses and cattle     "
+        },
+        {
+            "eng": "forbear",
+            "meaning": "refrain from be patient ancestor       "
+        },
+        {
+            "eng": "forbearance",
+            "meaning": "patience willingness to wait        "
+        },
+        {
+            "eng": "ford",
+            "meaning": "shallow place in a river (to cross)     "
+        },
+        {
+            "eng": "forestall",
+            "meaning": "prevent by taking action in advance preempt     "
+        },
+        {
+            "eng": "forfeit",
+            "meaning": "suffer the loss of smth       "
+        },
+        {
+            "eng": "forge",
+            "meaning": "workshop for the shaping of metal to shape metal lead  "
+        },
+        {
+            "eng": "forgery",
+            "meaning": "counterfeit           "
+        },
+        {
+            "eng": "forswear",
+            "meaning": "renounce disallow repudiate         "
+        },
+        {
+            "eng": "foster",
+            "meaning": "nurture care for         "
+        },
+        {
+            "eng": "fracas",
+            "meaning": "noisy quarrel        "
+        },
+        {
+            "eng": "fragile",
+            "meaning": "easily injured broken or destroyed       "
+        },
+        {
+            "eng": "fragrant",
+            "meaning": "sweet-smelling           "
+        },
+        {
+            "eng": "frantic",
+            "meaning": "wildly excited with joy pain anxiety      "
+        },
+        {
+            "eng": "frenetic",
+            "meaning": "frantic frenzied          "
+        },
+        {
+            "eng": "fret",
+            "meaning": "worry irritation wear away        "
+        },
+        {
+            "eng": "fringe",
+            "meaning": "edge ornamental border part of hair over the forehead   "
+        },
+        {
+            "eng": "froward",
+            "meaning": "intractable not willing to yield or comply stubborn    "
+        },
+        {
+            "eng": "frugal",
+            "meaning": "careful economical          "
+        },
+        {
+            "eng": "fulmination",
+            "meaning": "bitter protest          "
+        },
+        {
+            "eng": "fulsome",
+            "meaning": "disgusting offensive due to excessiveness       "
+        },
+        {
+            "eng": "gainsay",
+            "meaning": "to deny to oppose"
+        },
+        {
+            "eng": "garble",
+            "meaning": "make unfair selection from facts     "
+        },
+        {
+            "eng": "garment",
+            "meaning": "article of clothing         "
+        },
+        {
+            "eng": "garner",
+            "meaning": "to gather and save to store up     "
+        },
+        {
+            "eng": "garrulity",
+            "meaning": "talkativeness           "
+        },
+        {
+            "eng": "garrulous",
+            "meaning": "too talkative          "
+        },
+        {
+            "eng": "gaucherie",
+            "meaning": "socially awkward tactless behavior        "
+        },
+        {
+            "eng": "germane",
+            "meaning": "relevant pertinent to         "
+        },
+        {
+            "eng": "gist",
+            "meaning": "the point general sense        "
+        },
+        {
+            "eng": "glean",
+            "meaning": "gather facts in small quantities       "
+        },
+        {
+            "eng": "glib",
+            "meaning": "ready and smooth but not sincere      "
+        },
+        {
+            "eng": "glimmer",
+            "meaning": "weak/unsteady light        "
+        },
+        {
+            "eng": "gloat",
+            "meaning": "over look at with selfish delight      "
+        },
+        {
+            "eng": "glut",
+            "meaning": "supply to much fill to excess      "
+        },
+        {
+            "eng": "gnaw",
+            "meaning": "waste away bite steadily        "
+        },
+        {
+            "eng": "goad",
+            "meaning": "smth urging a person to action      "
+        },
+        {
+            "eng": "gorge",
+            "meaning": "eat greedily/narrow opening with a stream    "
+        },
+        {
+            "eng": "gossamer",
+            "meaning": "soft light delicate material        "
+        },
+        {
+            "eng": "gouge",
+            "meaning": "tool for cutting grooves in wood      "
+        },
+        {
+            "eng": "grandiloquent",
+            "meaning": "using pompous words       "
+        },
+        {
+            "eng": "grave",
+            "meaning": "serious requiring consideration         "
+        },
+        {
+            "eng": "graze",
+            "meaning": "touch or scrape lightly in passing    "
+        },
+        {
+            "eng": "gregarious",
+            "meaning": "living in societies liking the company      "
+        },
+        {
+            "eng": "grievous",
+            "meaning": "causing grief or pain serious dire grave     "
+        },
+        {
+            "eng": "grovel",
+            "meaning": "crawl humble oneself         "
+        },
+        {
+            "eng": "guile",
+            "meaning": "deceit cunning          "
+        },
+        {
+            "eng": "gullible",
+            "meaning": "easily gulled          "
+        },
+        {
+            "eng": "gush",
+            "meaning": "burst out suddenly/talk ardently      "
+        },
+        {
+            "eng": "gust",
+            "meaning": "outburst of feeling sudden rain wind fire etc.    "
+        },
+        {
+            "eng": "hack",
+            "meaning": "cut roughly hired horse        "
+        },
+        {
+            "eng": "halcyon",
+            "meaning": "calm and peaceful       "
+        },
+        {
+            "eng": "hallow",
+            "meaning": "to make holy consecrate        "
+        },
+        {
+            "eng": "harangue",
+            "meaning": "a long passionate speech        "
+        },
+        {
+            "eng": "harbinger",
+            "meaning": "smth or smb that foretells the coming of    "
+        },
+        {
+            "eng": "harrow",
+            "meaning": "to distress create stress or torment      "
+        },
+        {
+            "eng": "haughty",
+            "meaning": "arrogant conceited          "
+        },
+        {
+            "eng": "heed",
+            "meaning": "attention/give notice to       "
+        },
+        {
+            "eng": "heinous",
+            "meaning": "odious (of crime)         "
+        },
+        {
+            "eng": "heresy",
+            "meaning": "belief contrary to what is generally accepted     "
+        },
+        {
+            "eng": "hermetic",
+            "meaning": "sealed by fusion         "
+        },
+        {
+            "eng": "heterogeneous",
+            "meaning": "made up of different kinds       "
+        },
+        {
+            "eng": "hew",
+            "meaning": "make by hard work cut (by striking)     "
+        },
+        {
+            "eng": "highbrow",
+            "meaning": "(person) with superior tastes      "
+        },
+        {
+            "eng": "hirsute",
+            "meaning": "hairy shaggy          "
+        },
+        {
+            "eng": "hoax",
+            "meaning": "mischievous trick played on smb for a joke    "
+        },
+        {
+            "eng": "hoi",
+            "meaning": "polloi the masses the rabble       "
+        },
+        {
+            "eng": "hollow",
+            "meaning": "not soled with hole        "
+        },
+        {
+            "eng": "holster",
+            "meaning": "leather case for a pistol       "
+        },
+        {
+            "eng": "homiletics",
+            "meaning": "act of preaching       "
+        },
+        {
+            "eng": "hone",
+            "meaning": "stone used for sharpening tools       "
+        },
+        {
+            "eng": "hoodwink",
+            "meaning": "trick mislead          "
+        },
+        {
+            "eng": "hospitable",
+            "meaning": "liking to give hospitality        "
+        },
+        {
+            "eng": "hubris",
+            "meaning": "arrogant pride          "
+        },
+        {
+            "eng": "hush",
+            "meaning": "make or become silent      "
+        },
+        {
+            "eng": "husk",
+            "meaning": "worthless outside part of anything       "
+        },
+        {
+            "eng": "hypocrisy",
+            "meaning": "falsely making oneself appear to be good     "
+        },
+        {
+            "eng": "iconoclast",
+            "meaning": "person who attacks popular beliefs       "
+        },
+        {
+            "eng": "idiosyncrasy",
+            "meaning": "personal mannerism          "
+        },
+        {
+            "eng": "idolatry",
+            "meaning": "excessive admiration of         "
+        },
+        {
+            "eng": "idyll",
+            "meaning": "a carefree episode or experience       "
+        },
+        {
+            "eng": "ignoble",
+            "meaning": "dishonorable common undignified         "
+        },
+        {
+            "eng": "ignominious",
+            "meaning": "shameful dishonorable undignified disgraceful        "
+        },
+        {
+            "eng": "illicit",
+            "meaning": "unlawful forbidden          "
+        },
+        {
+            "eng": "imbroglio",
+            "meaning": "complicated and embarrassing situation        "
+        },
+        {
+            "eng": "immaculate",
+            "meaning": "pure faultless          "
+        },
+        {
+            "eng": "imminent",
+            "meaning": "likely to come or happen soon      "
+        },
+        {
+            "eng": "immutable",
+            "meaning": "that cannot be changed        "
+        },
+        {
+            "eng": "impair",
+            "meaning": "worsen diminish in value        "
+        },
+        {
+            "eng": "impassive",
+            "meaning": "unmoved feeling no sign of passion      "
+        },
+        {
+            "eng": "impecunious",
+            "meaning": "having little or no money       "
+        },
+        {
+            "eng": "impede",
+            "meaning": "hinder get in the way of      "
+        },
+        {
+            "eng": "impediment",
+            "meaning": "smth that hinders (e.g. stammer)       "
+        },
+        {
+            "eng": "impending",
+            "meaning": "imminent being about to happen expected      "
+        },
+        {
+            "eng": "imperative",
+            "meaning": "urgent essential          "
+        },
+        {
+            "eng": "imperious",
+            "meaning": "commanding haughty arrogant         "
+        },
+        {
+            "eng": "impermeable",
+            "meaning": "that cannot be permeated        "
+        },
+        {
+            "eng": "imperturbable",
+            "meaning": "calm not capable of being excited      "
+        },
+        {
+            "eng": "impervious",
+            "meaning": "not allowing to pass through (of materials)     "
+        },
+        {
+            "eng": "imperviousness",
+            "meaning": "haughty arrogant commanding         "
+        },
+        {
+            "eng": "impetuous",
+            "meaning": "having sudden energy impulsive thrusting ahead forceful     "
+        },
+        {
+            "eng": "impiety",
+            "meaning": "lack of reverence or dutifulness       "
+        },
+        {
+            "eng": "implacable",
+            "meaning": "incapable of being placated unpleasable       "
+        },
+        {
+            "eng": "implicate",
+            "meaning": "show that smb has a share      "
+        },
+        {
+            "eng": "implicit",
+            "meaning": "implied though not plainly expressed       "
+        },
+        {
+            "eng": "implosion",
+            "meaning": "collapse bursting inward         "
+        },
+        {
+            "eng": "importune",
+            "meaning": "beg urgently solicit (of a prostitute)      "
+        },
+        {
+            "eng": "imprecation",
+            "meaning": "an invocation of evil a curse      "
+        },
+        {
+            "eng": "impromptu",
+            "meaning": "without preparation          "
+        },
+        {
+            "eng": "impudent",
+            "meaning": "rash indiscreet          "
+        },
+        {
+            "eng": "impugned",
+            "meaning": "challenged to be doubted        "
+        },
+        {
+            "eng": "impute",
+            "meaning": "to attribute to a cause or source ascribe    "
+        },
+        {
+            "eng": "inadvertent",
+            "meaning": "not paying proper attention        "
+        },
+        {
+            "eng": "inane",
+            "meaning": "silly senseless          "
+        },
+        {
+            "eng": "inasmuch",
+            "meaning": "since because          "
+        },
+        {
+            "eng": "incense",
+            "meaning": "make angry          "
+        },
+        {
+            "eng": "incessant",
+            "meaning": "often repeated continual         "
+        },
+        {
+            "eng": "inchoate",
+            "meaning": "not yet fully formed rudimentary elementary      "
+        },
+        {
+            "eng": "incipient",
+            "meaning": "beginning         "
+        },
+        {
+            "eng": "incise",
+            "meaning": "engrave make a cut in       "
+        },
+        {
+            "eng": "incite",
+            "meaning": "stir up rouse         "
+        },
+        {
+            "eng": "inclined",
+            "meaning": "directing the mind in a certain direction     "
+        },
+        {
+            "eng": "incongruous",
+            "meaning": "out of place not in harmony or agreement    "
+        },
+        {
+            "eng": "incorrigibility",
+            "meaning": "cannot be cured or corrected       "
+        },
+        {
+            "eng": "incredulous",
+            "meaning": "skeptical unwilling to believe        "
+        },
+        {
+            "eng": "inculcate",
+            "meaning": "fix firmly by repetition        "
+        },
+        {
+            "eng": "incumbents",
+            "meaning": "official duties          "
+        },
+        {
+            "eng": "incursion",
+            "meaning": "a raid a sudden attack       "
+        },
+        {
+            "eng": "indefatigability",
+            "meaning": "not easily exhaustible tirelessness        "
+        },
+        {
+            "eng": "indelible",
+            "meaning": "that cannot be rubbed out       "
+        },
+        {
+            "eng": "indigence",
+            "meaning": "poverty           "
+        },
+        {
+            "eng": "indigenous",
+            "meaning": "native           "
+        },
+        {
+            "eng": "indistinct",
+            "meaning": "not easily heard seen clearly marked      "
+        },
+        {
+            "eng": "indolence",
+            "meaning": "laziness           "
+        },
+        {
+            "eng": "indomitable",
+            "meaning": "not easily discouraged or subdued       "
+        },
+        {
+            "eng": "indulge",
+            "meaning": "gratify give way to satisfy allow oneself     "
+        },
+        {
+            "eng": "indulgent",
+            "meaning": "inclined to indulge         "
+        },
+        {
+            "eng": "ineffable",
+            "meaning": "to great to be described in words     "
+        },
+        {
+            "eng": "ineluctable",
+            "meaning": "certain inevitable          "
+        },
+        {
+            "eng": "inept",
+            "meaning": "unskillful said or done at the wrong time    "
+        },
+        {
+            "eng": "ineptitude",
+            "meaning": "quality of being unskillful      "
+        },
+        {
+            "eng": "inferno",
+            "meaning": "hell         "
+        },
+        {
+            "eng": "infuriate",
+            "meaning": "fill with fury or rage       "
+        },
+        {
+            "eng": "infuse",
+            "meaning": "put pour fill         "
+        },
+        {
+            "eng": "ingenuous",
+            "meaning": "naive young artless frank honest sincere      "
+        },
+        {
+            "eng": "ingest",
+            "meaning": "take in by swallowing        "
+        },
+        {
+            "eng": "inimical",
+            "meaning": "harmful or friendly         "
+        },
+        {
+            "eng": "inimitable",
+            "meaning": "defying imitation unmatchable         "
+        },
+        {
+            "eng": "innocuous",
+            "meaning": "causing no harm         "
+        },
+        {
+            "eng": "inscrutable",
+            "meaning": "incapable of being discovered or understood      "
+        },
+        {
+            "eng": "insensible",
+            "meaning": "unconscious unresponsive unaffected         "
+        },
+        {
+            "eng": "insinuate",
+            "meaning": "suggest unpleasantly make a way for smth gently    "
+        },
+        {
+            "eng": "insipid",
+            "meaning": "without taste or flavor        "
+        },
+        {
+            "eng": "insouciant",
+            "meaning": "unconcerned carefree          "
+        },
+        {
+            "eng": "insularity",
+            "meaning": "narrow-mindedness isolated          "
+        },
+        {
+            "eng": "insurrection",
+            "meaning": "rising of people to open resistance to     "
+        },
+        {
+            "eng": "interdict",
+            "meaning": "prohibit forbid          "
+        },
+        {
+            "eng": "interim",
+            "meaning": "as an installment         "
+        },
+        {
+            "eng": "intersperse",
+            "meaning": "place here and there        "
+        },
+        {
+            "eng": "intransigence",
+            "meaning": "unwillingness to compromise stubbornness intractability       "
+        },
+        {
+            "eng": "intransigent",
+            "meaning": "uncompromising           "
+        },
+        {
+            "eng": "intrepid",
+            "meaning": "fearless brave undaunted         "
+        },
+        {
+            "eng": "introspection",
+            "meaning": "examining one's own thoughts and feelings      "
+        },
+        {
+            "eng": "inundate",
+            "meaning": "flood cover by overflowing        "
+        },
+        {
+            "eng": "inured",
+            "meaning": "accustomed to adapted         "
+        },
+        {
+            "eng": "invective",
+            "meaning": "abusive language curses         "
+        },
+        {
+            "eng": "inveigh",
+            "meaning": "to attack verbally denounce deprecate       "
+        },
+        {
+            "eng": "inveterate",
+            "meaning": "deep-rooted. long-established          "
+        },
+        {
+            "eng": "invincible",
+            "meaning": "too strong to be defeated     "
+        },
+        {
+            "eng": "involute",
+            "meaning": "complex           "
+        },
+        {
+            "eng": "irascible",
+            "meaning": "irritable easily angered         "
+        },
+        {
+            "eng": "irate",
+            "meaning": "angry           "
+        },
+        {
+            "eng": "ire",
+            "meaning": "anger           "
+        },
+        {
+            "eng": "irksome",
+            "meaning": "tiresome           "
+        },
+        {
+            "eng": "irresolute",
+            "meaning": "hesitating undecided          "
+        },
+        {
+            "eng": "irrevocable",
+            "meaning": "final and unalterable         "
+        },
+        {
+            "eng": "itinerate",
+            "meaning": "to travel from place to place to peregrinate    "
+        },
+        {
+            "eng": "jabber",
+            "meaning": "talk excitedly utter rapidly        "
+        },
+        {
+            "eng": "jibe",
+            "meaning": "gibe make fun of        "
+        },
+        {
+            "eng": "jocular",
+            "meaning": "meant as a joke        "
+        },
+        {
+            "eng": "judicious",
+            "meaning": "sound in judgment wise        "
+        },
+        {
+            "eng": "knit",
+            "meaning": "draw together unite firmly        "
+        },
+        {
+            "eng": "labyrinthine",
+            "meaning": "to entangle the state of affairs      "
+        },
+        {
+            "eng": "lachrymose",
+            "meaning": "causing tears tearful         "
+        },
+        {
+            "eng": "lackluster",
+            "meaning": "(of eyes) dull         "
+        },
+        {
+            "eng": "lament",
+            "meaning": "show feel great sorrow        "
+        },
+        {
+            "eng": "lassitude",
+            "meaning": "weariness tiredness          "
+        },
+        {
+            "eng": "latent",
+            "meaning": "present but not yet active developed or visible    "
+        },
+        {
+            "eng": "laudatory",
+            "meaning": "expressing or giving praise        "
+        },
+        {
+            "eng": "lavish",
+            "meaning": "giving or producing freely liberally or generously     "
+        },
+        {
+            "eng": "legacy",
+            "meaning": "smth handed down from ancestors       "
+        },
+        {
+            "eng": "levee",
+            "meaning": "formal reception/embankment        "
+        },
+        {
+            "eng": "levity",
+            "meaning": "lack of seriousness       "
+        },
+        {
+            "eng": "libel",
+            "meaning": "statement that damages reputation        "
+        },
+        {
+            "eng": "liberality",
+            "meaning": "free giving generosity         "
+        },
+        {
+            "eng": "libertine",
+            "meaning": "immoral person          "
+        },
+        {
+            "eng": "lien",
+            "meaning": "legal claim until a debt on it is repaid   "
+        },
+        {
+            "eng": "limn",
+            "meaning": "paint portray          "
+        },
+        {
+            "eng": "limp",
+            "meaning": "lacking strength walking unevenly        "
+        },
+        {
+            "eng": "lionize",
+            "meaning": "treat as a famous person     "
+        },
+        {
+            "eng": "lithe",
+            "meaning": "bending twisting          "
+        },
+        {
+            "eng": "loll",
+            "meaning": "rest to sit or stand in a lazy way hang (dog's tongue)"
+        },
+        {
+            "eng": "lope",
+            "meaning": "move along with long strides     "
+        },
+        {
+            "eng": "loquacious",
+            "meaning": "talkative garrulous          "
+        },
+        {
+            "eng": "lucubrate",
+            "meaning": "write in scholarly fashion        "
+        },
+        {
+            "eng": "luculent",
+            "meaning": "easily understood lucid clear        "
+        },
+        {
+            "eng": "lugubrious",
+            "meaning": "mournful excessively sad         "
+        },
+        {
+            "eng": "lull",
+            "meaning": "become quiet or less active       "
+        },
+        {
+            "eng": "lumber",
+            "meaning": "move in a clumsy/noisy way     "
+        },
+        {
+            "eng": "luminary",
+            "meaning": "star light-giving body         "
+        },
+        {
+            "eng": "lurk",
+            "meaning": "be out of view ready to attack   "
+        },
+        {
+            "eng": "lustrous",
+            "meaning": "being bright polished         "
+        },
+        {
+            "eng": "macabre",
+            "meaning": "gruesome suggesting death         "
+        },
+        {
+            "eng": "macerate",
+            "meaning": "make or become soft by soaking in water  "
+        },
+        {
+            "eng": "machination",
+            "meaning": "plot scheme (esp. evil)        "
+        },
+        {
+            "eng": "maladroit",
+            "meaning": "tactless clumsy          "
+        },
+        {
+            "eng": "malapropism",
+            "meaning": "misuse of a word (for one that resembles it)   "
+        },
+        {
+            "eng": "malevolence",
+            "meaning": "wishing to do evil        "
+        },
+        {
+            "eng": "malign",
+            "meaning": "injurious speak ill of smb tell lie     "
+        },
+        {
+            "eng": "malinger",
+            "meaning": "to fake illness or injury in order to shirk a duty "
+        },
+        {
+            "eng": "malleable",
+            "meaning": "yielding easily shaped moldable adapting       "
+        },
+        {
+            "eng": "manacle",
+            "meaning": "chains for the hands or feet      "
+        },
+        {
+            "eng": "massacre",
+            "meaning": "cruel killing of a large number of people    "
+        },
+        {
+            "eng": "matriculation",
+            "meaning": "be admitted enter a university as a student    "
+        },
+        {
+            "eng": "maudlin",
+            "meaning": "sentimental in a silly or tearful way     "
+        },
+        {
+            "eng": "maul",
+            "meaning": "hurt by rough handling      "
+        },
+        {
+            "eng": "maverick",
+            "meaning": "rebel nonconformist          "
+        },
+        {
+            "eng": "mellifluous",
+            "meaning": "sweetly flowing          "
+        },
+        {
+            "eng": "mendacity",
+            "meaning": "dishonesty           "
+        },
+        {
+            "eng": "mendicant",
+            "meaning": "a beggar          "
+        },
+        {
+            "eng": "mercurial",
+            "meaning": "quick changeable in character fleeting       "
+        },
+        {
+            "eng": "meretricious",
+            "meaning": "attractive on the surface but of little value    "
+        },
+        {
+            "eng": "mesmerize",
+            "meaning": "hypnotize           "
+        },
+        {
+            "eng": "meticulous",
+            "meaning": "giving great attention to details       "
+        },
+        {
+            "eng": "mettle",
+            "meaning": "quality of endurance or courage       "
+        },
+        {
+            "eng": "mettlesome",
+            "meaning": "courageous high-spirited          "
+        },
+        {
+            "eng": "middling",
+            "meaning": "fairly good but not very good      "
+        },
+        {
+            "eng": "minatory",
+            "meaning": "menacing threatening          "
+        },
+        {
+            "eng": "mince",
+            "meaning": "pronounce or speak affectedly euphemize       "
+        },
+        {
+            "eng": "misanthrope",
+            "meaning": "person who hates mankind        "
+        },
+        {
+            "eng": "mischievous",
+            "meaning": "harmful causing mischief         "
+        },
+        {
+            "eng": "miser",
+            "meaning": "person who loves wealth and spends little     "
+        },
+        {
+            "eng": "misogynist",
+            "meaning": "one who hates women/females        "
+        },
+        {
+            "eng": "moderation",
+            "meaning": "quality of being limited not extreme      "
+        },
+        {
+            "eng": "mollify",
+            "meaning": "make calmer or quieter        "
+        },
+        {
+            "eng": "molt",
+            "meaning": "moult lose hair feathers before new growing     "
+        },
+        {
+            "eng": "morbid",
+            "meaning": "diseased unhealthy (e.g.. about ideas)       "
+        },
+        {
+            "eng": "morose",
+            "meaning": "ill-tempered unsocial          "
+        },
+        {
+            "eng": "muffler",
+            "meaning": "cloth worn round the neck/silencer     "
+        },
+        {
+            "eng": "multifarious",
+            "meaning": "varied motley greatly diversified        "
+        },
+        {
+            "eng": "mundane",
+            "meaning": "worldly as opposed to spiritual commonplace everyday     "
+        },
+        {
+            "eng": "myriad",
+            "meaning": "very great number         "
+        },
+        {
+            "eng": "nadir",
+            "meaning": "lowest weakest point         "
+        },
+        {
+            "eng": "nascent",
+            "meaning": "coming into existence emerging        "
+        },
+        {
+            "eng": "nebulous",
+            "meaning": "cloud-like hazy vague indistinct        "
+        },
+        {
+            "eng": "negligent",
+            "meaning": "taking too little care        "
+        },
+        {
+            "eng": "neophyte",
+            "meaning": "person who has been converted to a belief    "
+        },
+        {
+            "eng": "nexus",
+            "meaning": "a connection tie or link       "
+        },
+        {
+            "eng": "nibble",
+            "meaning": "show some inclination to accept (an offer)     "
+        },
+        {
+            "eng": "noisome",
+            "meaning": "offensive disgusting (smell)         "
+        },
+        {
+            "eng": "nonchalant",
+            "meaning": "not having interest         "
+        },
+        {
+            "eng": "nonplused",
+            "meaning": "greatly surprised          "
+        },
+        {
+            "eng": "nostrum",
+            "meaning": "a quack remedy an untested cure      "
+        },
+        {
+            "eng": "noxious",
+            "meaning": "harmful           "
+        },
+        {
+            "eng": "nugatory",
+            "meaning": "trifling/worthless         "
+        },
+        {
+            "eng": "obdurate",
+            "meaning": "hardened and unrepenting stubborn inflexible       "
+        },
+        {
+            "eng": "obfuscate",
+            "meaning": "to darken make obscure muddle       "
+        },
+        {
+            "eng": "oblivious",
+            "meaning": "unaware having no memory        "
+        },
+        {
+            "eng": "obloquy",
+            "meaning": "abusively detractive language sharp criticism vituperation      "
+        },
+        {
+            "eng": "obsequious",
+            "meaning": "too eager to obey or serve      "
+        },
+        {
+            "eng": "obstreperous",
+            "meaning": "noisy loud          "
+        },
+        {
+            "eng": "obtain",
+            "meaning": "to be established accepted or customary      "
+        },
+        {
+            "eng": "obtrusive",
+            "meaning": "projecting prominent undesirably noticeable        "
+        },
+        {
+            "eng": "obtuse",
+            "meaning": "blunt/stupid         "
+        },
+        {
+            "eng": "obviate",
+            "meaning": "to make unnecessary get rid of      "
+        },
+        {
+            "eng": "occluded",
+            "meaning": "blocked up          "
+        },
+        {
+            "eng": "odious",
+            "meaning": "repulsive hateful          "
+        },
+        {
+            "eng": "odium",
+            "meaning": "contempt dislike aversion         "
+        },
+        {
+            "eng": "odor",
+            "meaning": "smell favor reputation         "
+        },
+        {
+            "eng": "officious",
+            "meaning": "too eager or ready to help offer advice    "
+        },
+        {
+            "eng": "ominous",
+            "meaning": "threatening         "
+        },
+        {
+            "eng": "onerous",
+            "meaning": "needing effort burdensome         "
+        },
+        {
+            "eng": "opaqueness",
+            "meaning": "dullness/not allowing light to pass through    "
+        },
+        {
+            "eng": "opprobrious",
+            "meaning": "showing scorn or reproach        "
+        },
+        {
+            "eng": "ossify",
+            "meaning": "to turn to bone to settle rigidly into an idea  "
+        },
+        {
+            "eng": "ostensible",
+            "meaning": "seeming appearing as such professed       "
+        },
+        {
+            "eng": "ostentation",
+            "meaning": "display to obtain admiration or envy      "
+        },
+        {
+            "eng": "ostracism",
+            "meaning": "shut out from society refuse to meet talk    "
+        },
+        {
+            "eng": "overhaul",
+            "meaning": "examine thoroughly to learn about the condition     "
+        },
+        {
+            "eng": "overweening",
+            "meaning": "presumptuously arrogant overbearing immoderate being a jerk     "
+        },
+        {
+            "eng": "paean",
+            "meaning": "song of praise or triumph       "
+        },
+        {
+            "eng": "palate",
+            "meaning": "roof of the mouth sense of taste     "
+        },
+        {
+            "eng": "palatial",
+            "meaning": "magnificent           "
+        },
+        {
+            "eng": "palliate",
+            "meaning": "lessen the severity of        "
+        },
+        {
+            "eng": "palpability",
+            "meaning": "can be felt touched understood       "
+        },
+        {
+            "eng": "palpitate",
+            "meaning": "tremble beat rapidly and irregularly       "
+        },
+        {
+            "eng": "panegyric",
+            "meaning": "formal praise eulogy         "
+        },
+        {
+            "eng": "paradigm",
+            "meaning": "a model example or pattern       "
+        },
+        {
+            "eng": "parenthesis",
+            "meaning": "sentence within another one smth separated      "
+        },
+        {
+            "eng": "pariah",
+            "meaning": "an outcast a rejected and despised person     "
+        },
+        {
+            "eng": "parsimonious",
+            "meaning": "too economical miserly         "
+        },
+        {
+            "eng": "partisan",
+            "meaning": "one-sided committed to a party biased or prejudiced    "
+        },
+        {
+            "eng": "patron",
+            "meaning": "regular customer person who gives support      "
+        },
+        {
+            "eng": "paucity",
+            "meaning": "scarcity a lacking of        "
+        },
+        {
+            "eng": "peccadillo",
+            "meaning": "small sin small weakness in one's character     "
+        },
+        {
+            "eng": "pedantic",
+            "meaning": "bookish showing off learning        "
+        },
+        {
+            "eng": "pedestrian",
+            "meaning": "commonplace trite unremarkable         "
+        },
+        {
+            "eng": "pellucid",
+            "meaning": "transparent easy to understand        "
+        },
+        {
+            "eng": "penchant",
+            "meaning": "strong inclination a liking        "
+        },
+        {
+            "eng": "penitent",
+            "meaning": "feeling or showing regret        "
+        },
+        {
+            "eng": "penurious",
+            "meaning": "poor/stingy         "
+        },
+        {
+            "eng": "penury",
+            "meaning": "extreme poverty          "
+        },
+        {
+            "eng": "peregrination",
+            "meaning": "traveling about wandering         "
+        },
+        {
+            "eng": "peremptory",
+            "meaning": "urgent imperative unchallengeable ending debate       "
+        },
+        {
+            "eng": "perfidious",
+            "meaning": "treacherous faithless          "
+        },
+        {
+            "eng": "perfidy",
+            "meaning": "treachery breaking of faith        "
+        },
+        {
+            "eng": "perfunctory",
+            "meaning": "done as a duty without care      "
+        },
+        {
+            "eng": "perilous",
+            "meaning": "dangerous           "
+        },
+        {
+            "eng": "peripatetic",
+            "meaning": "wandering           "
+        },
+        {
+            "eng": "perish",
+            "meaning": "be destroyed decay         "
+        },
+        {
+            "eng": "perjury",
+            "meaning": "willful FALSE statement unlawful act       "
+        },
+        {
+            "eng": "permeate",
+            "meaning": "spread into every part of       "
+        },
+        {
+            "eng": "pernicious",
+            "meaning": "harmful injurious          "
+        },
+        {
+            "eng": "perpetrate",
+            "meaning": "be guilty commit (a crime)       "
+        },
+        {
+            "eng": "personable",
+            "meaning": "pleasing in appearance attractive        "
+        },
+        {
+            "eng": "perspicacity",
+            "meaning": "quick judging and understanding        "
+        },
+        {
+            "eng": "pertain",
+            "meaning": "belong as a part have reference      "
+        },
+        {
+            "eng": "pest",
+            "meaning": "destructive thing or a person who is nuisance    "
+        },
+        {
+            "eng": "petrified",
+            "meaning": "taken away power (to think feel act)     "
+        },
+        {
+            "eng": "petrify",
+            "meaning": "to make hard rocklike        "
+        },
+        {
+            "eng": "petrous",
+            "meaning": "like a rock hard stony       "
+        },
+        {
+            "eng": "petulant",
+            "meaning": "unreasonably impatient          "
+        },
+        {
+            "eng": "philistine",
+            "meaning": "a smug ignorant person one who lacks knowledge    "
+        },
+        {
+            "eng": "phlegmatic",
+            "meaning": "calm sluggish temperament unemotional        "
+        },
+        {
+            "eng": "picaresque",
+            "meaning": "involving clever rogues or adventurers       "
+        },
+        {
+            "eng": "pied",
+            "meaning": "of mixed colors         "
+        },
+        {
+            "eng": "pinch",
+            "meaning": "be too tight take between the thumb and finger   "
+        },
+        {
+            "eng": "pine",
+            "meaning": "waste away through sorrow or illness    "
+        },
+        {
+            "eng": "pious",
+            "meaning": "dutiful to parents devoted to religion      "
+        },
+        {
+            "eng": "piquant",
+            "meaning": "agreeably pungent stimulating         "
+        },
+        {
+            "eng": "pique",
+            "meaning": "hurt the pride or self-respect stir (curiosity)     "
+        },
+        {
+            "eng": "pitfall",
+            "meaning": "covered hole as a trap unsuspected danger     "
+        },
+        {
+            "eng": "pith",
+            "meaning": "essential part force soft liquid substance      "
+        },
+        {
+            "eng": "pivotal",
+            "meaning": "of great importance (others depend on it)     "
+        },
+        {
+            "eng": "placate",
+            "meaning": "soothe pacify calm         "
+        },
+        {
+            "eng": "plaintive",
+            "meaning": "mournful melancholy sorrowful         "
+        },
+        {
+            "eng": "plaque",
+            "meaning": "flat metal on a wall as a memorial    "
+        },
+        {
+            "eng": "platitude",
+            "meaning": "a trite or banal statement unoriginality      "
+        },
+        {
+            "eng": "plea",
+            "meaning": "request           "
+        },
+        {
+            "eng": "plead",
+            "meaning": "address a court of law as an advocate    "
+        },
+        {
+            "eng": "plethora",
+            "meaning": "glut           "
+        },
+        {
+            "eng": "pliant",
+            "meaning": "pliable easily bent shaped or twisted      "
+        },
+        {
+            "eng": "plod",
+            "meaning": "continue doing smth without resting       "
+        },
+        {
+            "eng": "pluck",
+            "meaning": "pull the feathers off pick (e.g.. flowers)     "
+        },
+        {
+            "eng": "plumb",
+            "meaning": "get to the root of       "
+        },
+        {
+            "eng": "plummet",
+            "meaning": "fall plunge steeply         "
+        },
+        {
+            "eng": "plunge",
+            "meaning": "move quickly suddenly and with force      "
+        },
+        {
+            "eng": "poignant",
+            "meaning": "deeply moving keen         "
+        },
+        {
+            "eng": "poncho",
+            "meaning": "large piece of cloth      "
+        },
+        {
+            "eng": "ponderous",
+            "meaning": "heavy bulky dull         "
+        },
+        {
+            "eng": "portent",
+            "meaning": "omen marvelous threatening         "
+        },
+        {
+            "eng": "precarious",
+            "meaning": "uncertain risky dangerous         "
+        },
+        {
+            "eng": "precepts",
+            "meaning": "rules establishing standards of conduct       "
+        },
+        {
+            "eng": "preclude",
+            "meaning": "prevent make impossible         "
+        },
+        {
+            "eng": "precursory",
+            "meaning": "preliminary anticipating          "
+        },
+        {
+            "eng": "predilection",
+            "meaning": "special liking mental preference        "
+        },
+        {
+            "eng": "predominate",
+            "meaning": "have more power than others       "
+        },
+        {
+            "eng": "preen",
+            "meaning": "tidy/show self-satisfaction        "
+        },
+        {
+            "eng": "premature",
+            "meaning": "doing or happening smth before the right time    "
+        },
+        {
+            "eng": "preponderance",
+            "meaning": "greatness in number strength weight       "
+        },
+        {
+            "eng": "presage",
+            "meaning": "warning sign          "
+        },
+        {
+            "eng": "presumption",
+            "meaning": "arrogance         "
+        },
+        {
+            "eng": "preternatural",
+            "meaning": "not normal or usual        "
+        },
+        {
+            "eng": "prevalent",
+            "meaning": "common           "
+        },
+        {
+            "eng": "prevaricate",
+            "meaning": "to equivocate to stray from the truth     "
+        },
+        {
+            "eng": "prim",
+            "meaning": "neat formal          "
+        },
+        {
+            "eng": "pristine",
+            "meaning": "primitive unspoiled pure as in earlier times unadulterated    "
+        },
+        {
+            "eng": "probity",
+            "meaning": "uprightness incorruptibility principle         "
+        },
+        {
+            "eng": "proclivity",
+            "meaning": "inclination           "
+        },
+        {
+            "eng": "procrastination",
+            "meaning": "keeping on putting off        "
+        },
+        {
+            "eng": "prodigal",
+            "meaning": "wasteful reckless with money        "
+        },
+        {
+            "eng": "prodigious",
+            "meaning": "enormous wonderful          "
+        },
+        {
+            "eng": "profane",
+            "meaning": "worldly having contempt for God       "
+        },
+        {
+            "eng": "profligacy",
+            "meaning": "shameless immorality        "
+        },
+        {
+            "eng": "profligate",
+            "meaning": "wasteful prodigal licentious extravagant        "
+        },
+        {
+            "eng": "profundity",
+            "meaning": "depth           "
+        },
+        {
+            "eng": "profuse",
+            "meaning": "abundant/lavish         "
+        },
+        {
+            "eng": "proliferate",
+            "meaning": "grow reproduce by rapid multification       "
+        },
+        {
+            "eng": "prolix",
+            "meaning": "tiring because too long        "
+        },
+        {
+            "eng": "prone",
+            "meaning": "prostrate inclined to (undesirable things)       "
+        },
+        {
+            "eng": "propagation",
+            "meaning": "increasing the number spreading extending       "
+        },
+        {
+            "eng": "propinquity",
+            "meaning": "nearness in time or place affinity of nature    "
+        },
+        {
+            "eng": "propitiatory",
+            "meaning": "conciliatory appeasing mitigating         "
+        },
+        {
+            "eng": "propitious",
+            "meaning": "auspicious presenting favorable circumstances        "
+        },
+        {
+            "eng": "prosaic",
+            "meaning": "everyday mundane commonplace trite pedestrian       "
+        },
+        {
+            "eng": "proscribe",
+            "meaning": "denounce as dangerous         "
+        },
+        {
+            "eng": "protracted",
+            "meaning": "prolonged           "
+        },
+        {
+            "eng": "provident",
+            "meaning": "frugal looking to the future       "
+        },
+        {
+            "eng": "provisional",
+            "meaning": "of the present time only       "
+        },
+        {
+            "eng": "provoke",
+            "meaning": "make angry vax         "
+        },
+        {
+            "eng": "prudence",
+            "meaning": "careful forethought          "
+        },
+        {
+            "eng": "prudish",
+            "meaning": "easily shocked excessively modest        "
+        },
+        {
+            "eng": "prune",
+            "meaning": "dried plum silly person        "
+        },
+        {
+            "eng": "pry",
+            "meaning": "get smth inquire too curiously       "
+        },
+        {
+            "eng": "pucker",
+            "meaning": "wrinkle         "
+        },
+        {
+            "eng": "pugnacious",
+            "meaning": "fond of in the habit of fighting     "
+        },
+        {
+            "eng": "puissance",
+            "meaning": "strength         "
+        },
+        {
+            "eng": "punctilious",
+            "meaning": "precise paying attention to trivialities       "
+        },
+        {
+            "eng": "pundit",
+            "meaning": "pedant authority on a subject       "
+        },
+        {
+            "eng": "pungency",
+            "meaning": "sharpness stinging quality         "
+        },
+        {
+            "eng": "purvey",
+            "meaning": "provide supply          "
+        },
+        {
+            "eng": "pusillanimous",
+            "meaning": "cowardly craven          "
+        },
+        {
+            "eng": "putrefaction",
+            "meaning": "becoming rotten        "
+        },
+        {
+            "eng": "pyre",
+            "meaning": "large pile of wood for burning      "
+        },
+        {
+            "eng": "quack",
+            "meaning": "person dishonestly claiming to smth       "
+        },
+        {
+            "eng": "quaff",
+            "meaning": "drink deeply          "
+        },
+        {
+            "eng": "quail",
+            "meaning": "lose courage turn frightened        "
+        },
+        {
+            "eng": "qualm",
+            "meaning": "feeling of doubt temporary feeling of sickness     "
+        },
+        {
+            "eng": "quandary",
+            "meaning": "state of doubt or perplexity     "
+        },
+        {
+            "eng": "quell",
+            "meaning": "suppress subdue          "
+        },
+        {
+            "eng": "quibble",
+            "meaning": "try to avoid by sophistication       "
+        },
+        {
+            "eng": "quiescence",
+            "meaning": "state of being passive/motionless      "
+        },
+        {
+            "eng": "quiescent",
+            "meaning": "at rest dormant torpid        "
+        },
+        {
+            "eng": "quirk",
+            "meaning": "habit or action peculiar to smb or smth    "
+        },
+        {
+            "eng": "quixotic",
+            "meaning": "generous unselfish          "
+        },
+        {
+            "eng": "quotidian",
+            "meaning": "banal everyday          "
+        },
+        {
+            "eng": "rabble",
+            "meaning": "mob crowd the lower classes of populace     "
+        },
+        {
+            "eng": "raconteur",
+            "meaning": "person who tells anecdotes        "
+        },
+        {
+            "eng": "raffish",
+            "meaning": "low vulgar base tawdry        "
+        },
+        {
+            "eng": "ramify",
+            "meaning": "to be divided or subdivided to branch out    "
+        },
+        {
+            "eng": "rancorous",
+            "meaning": "feeling bitterness spitefulness         "
+        },
+        {
+            "eng": "rant",
+            "meaning": "use extravagant language         "
+        },
+        {
+            "eng": "rapacious",
+            "meaning": "greedy (esp for money)        "
+        },
+        {
+            "eng": "rarefy",
+            "meaning": "to make thin to make less dense to purify or refine "
+        },
+        {
+            "eng": "rave",
+            "meaning": "act with excessive enthusiasm      "
+        },
+        {
+            "eng": "reactionary",
+            "meaning": "opposing progress          "
+        },
+        {
+            "eng": "rebuff",
+            "meaning": "snub           "
+        },
+        {
+            "eng": "recalcitrant",
+            "meaning": "disobedient           "
+        },
+        {
+            "eng": "recant",
+            "meaning": "take back as being FALSE give up     "
+        },
+        {
+            "eng": "recast",
+            "meaning": "cast or fashion anew        "
+        },
+        {
+            "eng": "recidivism",
+            "meaning": "relapse into antisocial or criminal behavior      "
+        },
+        {
+            "eng": "reciprocity",
+            "meaning": "granting of privileges in return for similar     "
+        },
+        {
+            "eng": "recitals",
+            "meaning": "a number of performance of music      "
+        },
+        {
+            "eng": "recluse",
+            "meaning": "person who lives alone and avoids people     "
+        },
+        {
+            "eng": "recompense",
+            "meaning": "make payment to reward punish       "
+        },
+        {
+            "eng": "reconcile",
+            "meaning": "settle a quarrel restore peace       "
+        },
+        {
+            "eng": "recondite",
+            "meaning": "little known abstruse         "
+        },
+        {
+            "eng": "recreancy",
+            "meaning": "cowardice a cowardly giving up       "
+        },
+        {
+            "eng": "recuperate",
+            "meaning": "become strong after illness loss exhaustion      "
+        },
+        {
+            "eng": "redeem",
+            "meaning": "get back by payment compensate       "
+        },
+        {
+            "eng": "redoubtable",
+            "meaning": "formidable causing fear         "
+        },
+        {
+            "eng": "refine",
+            "meaning": "make or become pure cultural       "
+        },
+        {
+            "eng": "refractory",
+            "meaning": "stubborn unmanageable untractable         "
+        },
+        {
+            "eng": "refulgent",
+            "meaning": "shining brilliant          "
+        },
+        {
+            "eng": "regale",
+            "meaning": "to delight or entertain to feast      "
+        },
+        {
+            "eng": "regicide",
+            "meaning": "crime of killing a king       "
+        },
+        {
+            "eng": "reiterate",
+            "meaning": "say or do again several times      "
+        },
+        {
+            "eng": "rejuvenation",
+            "meaning": "becoming young in nature or appearance      "
+        },
+        {
+            "eng": "relapse",
+            "meaning": "fall back again         "
+        },
+        {
+            "eng": "remonstrate",
+            "meaning": "to protest object         "
+        },
+        {
+            "eng": "render",
+            "meaning": "deliver provide represent         "
+        },
+        {
+            "eng": "renovate",
+            "meaning": "restore smth to better condition       "
+        },
+        {
+            "eng": "renowned",
+            "meaning": "celebrated famous          "
+        },
+        {
+            "eng": "repast",
+            "meaning": "meal           "
+        },
+        {
+            "eng": "repel",
+            "meaning": "refuse to accept/cause dislike      "
+        },
+        {
+            "eng": "repine",
+            "meaning": "at be discontented with        "
+        },
+        {
+            "eng": "reproach",
+            "meaning": "scold upbraid          "
+        },
+        {
+            "eng": "reprobate",
+            "meaning": "person hardened in sin one devoid of decency    "
+        },
+        {
+            "eng": "repudiate",
+            "meaning": "disown refuse to accept or pay      "
+        },
+        {
+            "eng": "repulsive",
+            "meaning": "causing a feeling of disgust       "
+        },
+        {
+            "eng": "requite",
+            "meaning": "repay give in return        "
+        },
+        {
+            "eng": "rescind",
+            "meaning": "repeal/annul/cancel         "
+        },
+        {
+            "eng": "resigned",
+            "meaning": "unresisting submissive          "
+        },
+        {
+            "eng": "resilience",
+            "meaning": "quality of quickly recovering the original shape     "
+        },
+        {
+            "eng": "resort",
+            "meaning": "to frequently visit         "
+        },
+        {
+            "eng": "restive",
+            "meaning": "refusing to move reluctant to be controlled     "
+        },
+        {
+            "eng": "resuscitation",
+            "meaning": "coming back to consciousness        "
+        },
+        {
+            "eng": "retard",
+            "meaning": "check hinder          "
+        },
+        {
+            "eng": "reticent",
+            "meaning": "reserved untalkative silent taciturn        "
+        },
+        {
+            "eng": "revere",
+            "meaning": "have deep respect for        "
+        },
+        {
+            "eng": "reverent",
+            "meaning": "feeling or showing deep respect     "
+        },
+        {
+            "eng": "riddle",
+            "meaning": "puzzling person or thing      "
+        },
+        {
+            "eng": "rift",
+            "meaning": "split crack dissension         "
+        },
+        {
+            "eng": "rivet",
+            "meaning": "fix take up secure metal pin      "
+        },
+        {
+            "eng": "roll",
+            "meaning": "call calling of names        "
+        },
+        {
+            "eng": "rotund",
+            "meaning": "rich and deep plump and round      "
+        },
+        {
+            "eng": "ruffian",
+            "meaning": "violent cruel man         "
+        },
+        {
+            "eng": "rumple",
+            "meaning": "make rough        "
+        },
+        {
+            "eng": "sagacious",
+            "meaning": "having sound judgment perceptive wise like a sage    "
+        },
+        {
+            "eng": "salacious",
+            "meaning": "obscene           "
+        },
+        {
+            "eng": "salubrious",
+            "meaning": "healthful           "
+        },
+        {
+            "eng": "salutary",
+            "meaning": "remedial wholesome causing improvement        "
+        },
+        {
+            "eng": "sanctimony",
+            "meaning": "self-righteousness hypocritical with FALSE piety       "
+        },
+        {
+            "eng": "sanction",
+            "meaning": "approval (by authority) penalty        "
+        },
+        {
+            "eng": "sanguine",
+            "meaning": "cheerful confident optimistic         "
+        },
+        {
+            "eng": "sanity",
+            "meaning": "health of mind soundness of judgement      "
+        },
+        {
+            "eng": "sash",
+            "meaning": "long strip worn round the waist    "
+        },
+        {
+            "eng": "satiate",
+            "meaning": "satisfy fully          "
+        },
+        {
+            "eng": "saturnine",
+            "meaning": "gloomy dark sullen morose        "
+        },
+        {
+            "eng": "savant",
+            "meaning": "person of great learning        "
+        },
+        {
+            "eng": "savor",
+            "meaning": "taste flavor smth         "
+        },
+        {
+            "eng": "sawdust",
+            "meaning": "tiny bits of wood        "
+        },
+        {
+            "eng": "scabbard",
+            "meaning": "sheath for the blade        "
+        },
+        {
+            "eng": "scent",
+            "meaning": "smell (esp pleasant)         "
+        },
+        {
+            "eng": "scorch",
+            "meaning": "become discolored/dry up/go at high speed    "
+        },
+        {
+            "eng": "scribble",
+            "meaning": "write hastily          "
+        },
+        {
+            "eng": "scurvy",
+            "meaning": "mean contemptible          "
+        },
+        {
+            "eng": "secular",
+            "meaning": "material (not spiritual) living outside monasteries      "
+        },
+        {
+            "eng": "sedulous",
+            "meaning": "persevering           "
+        },
+        {
+            "eng": "seminal",
+            "meaning": "like a seed constituting a source originative     "
+        },
+        {
+            "eng": "sententious",
+            "meaning": "short and pithy full of maxims/proverbs      "
+        },
+        {
+            "eng": "sequence",
+            "meaning": "succession connected line of        "
+        },
+        {
+            "eng": "sere",
+            "meaning": "make hard and without feeling     "
+        },
+        {
+            "eng": "sermon",
+            "meaning": "reproving a person for his faults    "
+        },
+        {
+            "eng": "serrated",
+            "meaning": "having a toothed edge        "
+        },
+        {
+            "eng": "serration",
+            "meaning": "having a toothed edge        "
+        },
+        {
+            "eng": "servile",
+            "meaning": "like a slave lacking independence       "
+        },
+        {
+            "eng": "sever",
+            "meaning": "break off        "
+        },
+        {
+            "eng": "severance",
+            "meaning": "severing           "
+        },
+        {
+            "eng": "shallow",
+            "meaning": "little depth not earnest        "
+        },
+        {
+            "eng": "shard",
+            "meaning": "piece of broken earthenware        "
+        },
+        {
+            "eng": "sheath",
+            "meaning": "cover for the blade of a weapon or a tool  "
+        },
+        {
+            "eng": "shrewd",
+            "meaning": "astute showing sound judgement        "
+        },
+        {
+            "eng": "shrill",
+            "meaning": "sharp piercing          "
+        },
+        {
+            "eng": "shun",
+            "meaning": "keep away from avoid        "
+        },
+        {
+            "eng": "shunt",
+            "meaning": "send from one track to another lay aside evade discussion  "
+        },
+        {
+            "eng": "sidestep",
+            "meaning": "step to one side        "
+        },
+        {
+            "eng": "simper",
+            "meaning": "(give a) silly/self-conscious smile      "
+        },
+        {
+            "eng": "sinuous",
+            "meaning": "winding undulating serpentine         "
+        },
+        {
+            "eng": "skiff",
+            "meaning": "small boat          "
+        },
+        {
+            "eng": "skit",
+            "meaning": "short piece of humorous writing       "
+        },
+        {
+            "eng": "slack",
+            "meaning": "sluggish dull not tight        "
+        },
+        {
+            "eng": "slake",
+            "meaning": "to assuage to satisfy allay       "
+        },
+        {
+            "eng": "slate",
+            "meaning": "king of blue-grey stone propose criticize      "
+        },
+        {
+            "eng": "sluggard",
+            "meaning": "lazy slow-moving person         "
+        },
+        {
+            "eng": "slur",
+            "meaning": "join sounds/words (indistinct)       "
+        },
+        {
+            "eng": "smolder",
+            "meaning": "burn slowly without flame      "
+        },
+        {
+            "eng": "snare",
+            "meaning": "trap         "
+        },
+        {
+            "eng": "snub",
+            "meaning": "treat with contempt       "
+        },
+        {
+            "eng": "soar",
+            "meaning": "rise fly high         "
+        },
+        {
+            "eng": "sober",
+            "meaning": "self-controlled           "
+        },
+        {
+            "eng": "sobriety",
+            "meaning": "quality or condition of being sober      "
+        },
+        {
+            "eng": "sodden",
+            "meaning": "soaked saturated          "
+        },
+        {
+            "eng": "soggy",
+            "meaning": "heavy with water         "
+        },
+        {
+            "eng": "solvent",
+            "meaning": "of the power of forming a solution     "
+        },
+        {
+            "eng": "somatic",
+            "meaning": "of the body         "
+        },
+        {
+            "eng": "soot",
+            "meaning": "black powder in smoke        "
+        },
+        {
+            "eng": "sophisticated",
+            "meaning": "complex subtle refined         "
+        },
+        {
+            "eng": "sophistry",
+            "meaning": "fallacious reasoning faulty logic        "
+        },
+        {
+            "eng": "sophomoric",
+            "meaning": "self-assured though immature affected bombastic overblown      "
+        },
+        {
+            "eng": "soporific",
+            "meaning": "producing sleep        "
+        },
+        {
+            "eng": "sordid",
+            "meaning": "wretched comfortless contemptible         "
+        },
+        {
+            "eng": "spear",
+            "meaning": "weapon with a metal point on a long shaft   "
+        },
+        {
+            "eng": "specious",
+            "meaning": "illogical of questionable truth or merit      "
+        },
+        {
+            "eng": "splenetic",
+            "meaning": "bad-tempered irritable          "
+        },
+        {
+            "eng": "splice",
+            "meaning": "join (two ends)         "
+        },
+        {
+            "eng": "sponge",
+            "meaning": "porous rubber for washing live at once expense    "
+        },
+        {
+            "eng": "spurious",
+            "meaning": "FALSE counterfeit          "
+        },
+        {
+            "eng": "spurn",
+            "meaning": "have nothing to do reject or refuse     "
+        },
+        {
+            "eng": "squalid",
+            "meaning": "foul filthy          "
+        },
+        {
+            "eng": "squander",
+            "meaning": "spend wastefully          "
+        },
+        {
+            "eng": "squat",
+            "meaning": "crouch/settle without permission       "
+        },
+        {
+            "eng": "stanch",
+            "meaning": "to stop the flow of a fluid     "
+        },
+        {
+            "eng": "steeply",
+            "meaning": "rising or falling sharply        "
+        },
+        {
+            "eng": "stentorian",
+            "meaning": "extremely loud and powerful        "
+        },
+        {
+            "eng": "stickler",
+            "meaning": "person who insists on importance of smth     "
+        },
+        {
+            "eng": "stigma",
+            "meaning": "mark of shame or disgrace       "
+        },
+        {
+            "eng": "stigmatize",
+            "meaning": "describe smb scornfully         "
+        },
+        {
+            "eng": "sting",
+            "meaning": "smth sharp          "
+        },
+        {
+            "eng": "stingy",
+            "meaning": "spending using unwillingly         "
+        },
+        {
+            "eng": "stint",
+            "meaning": "to be thrifty to set limits      "
+        },
+        {
+            "eng": "stipple",
+            "meaning": "paint with dots       "
+        },
+        {
+            "eng": "stipulate",
+            "meaning": "state or put forward as a necessary condition    "
+        },
+        {
+            "eng": "stolid",
+            "meaning": "showing no emotion impassive        "
+        },
+        {
+            "eng": "stray",
+            "meaning": "wander lose one's way        "
+        },
+        {
+            "eng": "streak",
+            "meaning": "long thin move very fast       "
+        },
+        {
+            "eng": "striated",
+            "meaning": "striped grooved or banded        "
+        },
+        {
+            "eng": "stride",
+            "meaning": "walk with long steps        "
+        },
+        {
+            "eng": "strut",
+            "meaning": "a supporting bar         "
+        },
+        {
+            "eng": "stygian",
+            "meaning": "hence dark gloomy         "
+        },
+        {
+            "eng": "stymie",
+            "meaning": "to hinder obstruct or block       "
+        },
+        {
+            "eng": "subdue",
+            "meaning": "overcome bring under control        "
+        },
+        {
+            "eng": "sublime",
+            "meaning": "extreme astounding          "
+        },
+        {
+            "eng": "submerge",
+            "meaning": "put under water liquid sink out of sight    "
+        },
+        {
+            "eng": "suborn",
+            "meaning": "induce by bribery or smth to commit perjury    "
+        },
+        {
+            "eng": "subpoena",
+            "meaning": "written order requiring a person to appear in a low court "
+        },
+        {
+            "eng": "substantiation",
+            "meaning": "giving facts to support (statement)     "
+        },
+        {
+            "eng": "subsume",
+            "meaning": "include under a rule        "
+        },
+        {
+            "eng": "succor",
+            "meaning": "assistance relief in time of distress      "
+        },
+        {
+            "eng": "suffice",
+            "meaning": "be enough          "
+        },
+        {
+            "eng": "suffocate",
+            "meaning": "cause or have difficulty in breathing    "
+        },
+        {
+            "eng": "sullied",
+            "meaning": "to be stained or discredited       "
+        },
+        {
+            "eng": "summarily",
+            "meaning": "briefly without delay         "
+        },
+        {
+            "eng": "sumptuous",
+            "meaning": "magnificent           "
+        },
+        {
+            "eng": "sundry",
+            "meaning": "various miscellaneous separate         "
+        },
+        {
+            "eng": "supercilious",
+            "meaning": "disdainful characterized by haughty scorn       "
+        },
+        {
+            "eng": "superfluous",
+            "meaning": "more then is needed or wanted      "
+        },
+        {
+            "eng": "superimpose",
+            "meaning": "put smth on the top       "
+        },
+        {
+            "eng": "supersede",
+            "meaning": "take the place of        "
+        },
+        {
+            "eng": "supine",
+            "meaning": "lying on the back slow to act passive    "
+        },
+        {
+            "eng": "suppliant",
+            "meaning": "asking humbly beseeching         "
+        },
+        {
+            "eng": "supplicate",
+            "meaning": "make a humble petition to       "
+        },
+        {
+            "eng": "suppress",
+            "meaning": "prevent from being known put an end to    "
+        },
+        {
+            "eng": "surcharge",
+            "meaning": "additional load/charge        "
+        },
+        {
+            "eng": "surfeit",
+            "meaning": "satiate feed to fulness or to excess     "
+        },
+        {
+            "eng": "susceptibility",
+            "meaning": "sensitiveness           "
+        },
+        {
+            "eng": "swerve",
+            "meaning": "change direction suddenly       "
+        },
+        {
+            "eng": "sycophant",
+            "meaning": "person who flatter to the rich and powerful    "
+        },
+        {
+            "eng": "synopsis",
+            "meaning": "summary or outline         "
+        },
+        {
+            "eng": "taciturn",
+            "meaning": "untalkative silent          "
+        },
+        {
+            "eng": "tadpole",
+            "meaning": "form of a frog when it leaves the egg "
+        },
+        {
+            "eng": "talon",
+            "meaning": "claw of a bird of prey      "
+        },
+        {
+            "eng": "tamp",
+            "meaning": "tap or drive down by repeated light blows    "
+        },
+        {
+            "eng": "tamper",
+            "meaning": "interfere with          "
+        },
+        {
+            "eng": "tangential",
+            "meaning": "suddenly changeable          "
+        },
+        {
+            "eng": "tarnished",
+            "meaning": "lost brightness          "
+        },
+        {
+            "eng": "tassel",
+            "meaning": "bunch of threads       "
+        },
+        {
+            "eng": "taunt",
+            "meaning": "contemptuous reproach hurtful remark        "
+        },
+        {
+            "eng": "taut",
+            "meaning": "tightly stretched          "
+        },
+        {
+            "eng": "tautology",
+            "meaning": "a repetition a redundancy        "
+        },
+        {
+            "eng": "tawdry",
+            "meaning": "cheap gaudy showy tacky        "
+        },
+        {
+            "eng": "teetotal",
+            "meaning": "oppose to alcohol         "
+        },
+        {
+            "eng": "temerity",
+            "meaning": "boldness brashness intrepidness         "
+        },
+        {
+            "eng": "temperance",
+            "meaning": "abstinence from alcohol self-control moderation       "
+        },
+        {
+            "eng": "temperate",
+            "meaning": "showing self-control          "
+        },
+        {
+            "eng": "tenacity",
+            "meaning": "firmness persistency adhesiveness tending to hang on     "
+        },
+        {
+            "eng": "tenuous",
+            "meaning": "insubstantial flimsy weak         "
+        },
+        {
+            "eng": "tepid",
+            "meaning": "lukewarm         "
+        },
+        {
+            "eng": "terse",
+            "meaning": "brief and to the point       "
+        },
+        {
+            "eng": "testiness",
+            "meaning": "witness/evidence         "
+        },
+        {
+            "eng": "thrift",
+            "meaning": "care economy thriving prosperous        "
+        },
+        {
+            "eng": "thwart",
+            "meaning": "obstruct/frustrate         "
+        },
+        {
+            "eng": "timid",
+            "meaning": "shy easily frightened         "
+        },
+        {
+            "eng": "timorous",
+            "meaning": "fearful timid afraid         "
+        },
+        {
+            "eng": "toady",
+            "meaning": "obsequious flatterer        "
+        },
+        {
+            "eng": "tonic",
+            "meaning": "smth giving strength or energy       "
+        },
+        {
+            "eng": "topple",
+            "meaning": "be unsteady and overturn        "
+        },
+        {
+            "eng": "torment",
+            "meaning": "severe pain or suffering        "
+        },
+        {
+            "eng": "torpid",
+            "meaning": "sleeping sluggish lethargic dormant        "
+        },
+        {
+            "eng": "torque",
+            "meaning": "twisting force causing rotation      "
+        },
+        {
+            "eng": "tortuous",
+            "meaning": "devious/not straightforward        "
+        },
+        {
+            "eng": "tout",
+            "meaning": "person who worries others to buy smth to use his service "
+        },
+        {
+            "eng": "tractable",
+            "meaning": "easily controlled or guided        "
+        },
+        {
+            "eng": "transgress",
+            "meaning": "break go beyond (a limit)       "
+        },
+        {
+            "eng": "transient",
+            "meaning": "temporary fleeting          "
+        },
+        {
+            "eng": "transitory",
+            "meaning": "brief           "
+        },
+        {
+            "eng": "travesty",
+            "meaning": "parody/imitation         "
+        },
+        {
+            "eng": "trenchant",
+            "meaning": "forceful effective vigorous extremely perceptive incisive      "
+        },
+        {
+            "eng": "trepidation",
+            "meaning": "alarm excited state of mind       "
+        },
+        {
+            "eng": "trickle",
+            "meaning": "flow in drops       "
+        },
+        {
+            "eng": "trifling",
+            "meaning": "unimportant           "
+        },
+        {
+            "eng": "trite",
+            "meaning": "not new          "
+        },
+        {
+            "eng": "truce",
+            "meaning": "(agreement) stop of fighting for a time   "
+        },
+        {
+            "eng": "truculence",
+            "meaning": "aggressiveness ferocity          "
+        },
+        {
+            "eng": "trudge",
+            "meaning": "walk heavily          "
+        },
+        {
+            "eng": "turbid",
+            "meaning": "muddy having the sediment stirred up      "
+        },
+        {
+            "eng": "turbulence",
+            "meaning": "being uncontrolled violent         "
+        },
+        {
+            "eng": "turgid",
+            "meaning": "excessively ornate swollen or bloated       "
+        },
+        {
+            "eng": "turmoil",
+            "meaning": "trouble disturbance          "
+        },
+        {
+            "eng": "turpitude",
+            "meaning": "wickedness shamefulness          "
+        },
+        {
+            "eng": "turquoise",
+            "meaning": "greenish-blue precious stone       "
+        },
+        {
+            "eng": "tyro",
+            "meaning": "tiro beginner          "
+        },
+        {
+            "eng": "ubiquitous",
+            "meaning": "present everywhere        "
+        },
+        {
+            "eng": "ulterior",
+            "meaning": "situated beyond          "
+        },
+        {
+            "eng": "umbrage",
+            "meaning": "offense resentment          "
+        },
+        {
+            "eng": "uncouth",
+            "meaning": "rough awkward          "
+        },
+        {
+            "eng": "underbid",
+            "meaning": "make a lower bid then smb else     "
+        },
+        {
+            "eng": "undermine",
+            "meaning": "weaken gradually at the base make smth under    "
+        },
+        {
+            "eng": "undulate",
+            "meaning": "to move in wavelike fashion fluctuate      "
+        },
+        {
+            "eng": "unearth",
+            "meaning": "discover and bring to light     "
+        },
+        {
+            "eng": "unencumbered",
+            "meaning": "easy-going trifle          "
+        },
+        {
+            "eng": "unfeigned",
+            "meaning": "not pretended sincere         "
+        },
+        {
+            "eng": "unscathed",
+            "meaning": "unharmed unhurt          "
+        },
+        {
+            "eng": "untoward",
+            "meaning": "unfortunate inconvenient          "
+        },
+        {
+            "eng": "upbraid",
+            "meaning": "scold reproach          "
+        },
+        {
+            "eng": "urbane",
+            "meaning": "elegant refined in manners        "
+        },
+        {
+            "eng": "vacillation",
+            "meaning": "being uncertain hesitating         "
+        },
+        {
+            "eng": "vagary",
+            "meaning": "strange act or idea        "
+        },
+        {
+            "eng": "vain",
+            "meaning": "without use result conceited        "
+        },
+        {
+            "eng": "valiant",
+            "meaning": "brave           "
+        },
+        {
+            "eng": "valorous",
+            "meaning": "brave           "
+        },
+        {
+            "eng": "vanquish",
+            "meaning": "conquer           "
+        },
+        {
+            "eng": "veer",
+            "meaning": "change direction          "
+        },
+        {
+            "eng": "venal",
+            "meaning": "ready to do smth dishonest       "
+        },
+        {
+            "eng": "veneer",
+            "meaning": "surface appearance covering the TRUE nature      "
+        },
+        {
+            "eng": "veneration",
+            "meaning": "regard with deep respect        "
+        },
+        {
+            "eng": "veracity",
+            "meaning": "truth           "
+        },
+        {
+            "eng": "verdant",
+            "meaning": "fresh and green       "
+        },
+        {
+            "eng": "verisimilitude",
+            "meaning": "appearing TRUE or real        "
+        },
+        {
+            "eng": "veritable",
+            "meaning": "real rightly named         "
+        },
+        {
+            "eng": "verve",
+            "meaning": "spirit vigor enthusiasm         "
+        },
+        {
+            "eng": "vestige",
+            "meaning": "trace or sign       "
+        },
+        {
+            "eng": "vex",
+            "meaning": "annoy distress trouble         "
+        },
+        {
+            "eng": "vigilance",
+            "meaning": "watchfulness self-appointed group who maintain order      "
+        },
+        {
+            "eng": "vigilant",
+            "meaning": "member of a vigilance committee       "
+        },
+        {
+            "eng": "vigorous",
+            "meaning": "strong energetic          "
+        },
+        {
+            "eng": "vilify",
+            "meaning": "slander say evil things        "
+        },
+        {
+            "eng": "vindictive",
+            "meaning": "having a desire to revenge       "
+        },
+        {
+            "eng": "virago",
+            "meaning": "a loud domineering woman a scold or nag    "
+        },
+        {
+            "eng": "visceral",
+            "meaning": "of the internal organs of the body     "
+        },
+        {
+            "eng": "viscous",
+            "meaning": "sticky/semi-fluid         "
+        },
+        {
+            "eng": "vitiate",
+            "meaning": "lower the quality weaken the strength      "
+        },
+        {
+            "eng": "vituperate",
+            "meaning": "curse abuse in words        "
+        },
+        {
+            "eng": "vivacious",
+            "meaning": "lively high-spirited          "
+        },
+        {
+            "eng": "volatile",
+            "meaning": "changeable inconstant fickle unstable explosive       "
+        },
+        {
+            "eng": "volubility",
+            "meaning": "fluency verbosity easy use of spoken language     "
+        },
+        {
+            "eng": "voluble",
+            "meaning": "fluent           "
+        },
+        {
+            "eng": "waffle",
+            "meaning": "talk vaguely and without much result    "
+        },
+        {
+            "eng": "waft",
+            "meaning": "scent waving movement carry lightly through      "
+        },
+        {
+            "eng": "wag",
+            "meaning": "merry person          "
+        },
+        {
+            "eng": "warmonger",
+            "meaning": "person who stirs up war       "
+        },
+        {
+            "eng": "warrant",
+            "meaning": "authority written order guarantee        "
+        },
+        {
+            "eng": "wean",
+            "meaning": "to turn away (from a habit)    "
+        },
+        {
+            "eng": "weigh",
+            "meaning": "measure hoe heavy smth is       "
+        },
+        {
+            "eng": "welter",
+            "meaning": "turmoil a bewildering jumble        "
+        },
+        {
+            "eng": "wend",
+            "meaning": "to go proceed         "
+        },
+        {
+            "eng": "whimsical",
+            "meaning": "full of odd and fanciful ideas      "
+        },
+        {
+            "eng": "wince",
+            "meaning": "show bodily or mental pain       "
+        },
+        {
+            "eng": "woo",
+            "meaning": "try to win         "
+        },
+        {
+            "eng": "writ",
+            "meaning": "written order        "
+        },
+        {
+            "eng": "yarn",
+            "meaning": "tale story fibers for knitting       "
+        }
+    ]
+}

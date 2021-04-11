@@ -1,0 +1,20 @@
+body {
+  background-color: #2e2e2e;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.cardRow {
+  margin-top: 10%;
+  padding: 5px;
+}
+
+.btnRow {
+  padding: 5px;
+}

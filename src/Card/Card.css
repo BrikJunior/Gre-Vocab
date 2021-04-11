@@ -1,0 +1,111 @@
+::selection,
+::moz-selection {
+  color: currentColor;
+  background: transparent;
+}
+* {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.card-container {
+  cursor: pointer;
+  height: 400px;
+  width: 370px;
+  perspective: 800px;
+  position: relative;
+  margin: auto;
+  transition: ease-in;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.card {
+  height: 400px;
+  width: 370px;
+  position: absolute;
+  background-color: whitesmoke;
+  border-radius: 35px;
+  box-shadow: 0 0 20px #cccccc;
+  z-index: -3;
+  transform-style: preserve-3d;
+  transition: all 0.4s ease-in-out;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.card:active {
+  transform: rotateY(180deg);
+  transition: all 0.4s ease-in-out;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.card .front {
+  height: 400px;
+  width: 370px;
+  border-radius: 35px;
+  box-shadow: 0 0 20px #cccccc;
+  z-index: -3;
+  backface-visibility: hidden;
+  position: absolute;
+  overflow: hidden;
+  text-align: center;
+  text-transform: capitalize;
+  background-color: whitesmoke;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.card .back {
+  height: 400px;
+  width: 370px;
+  text-align: center;
+  transform: rotateY(180deg);
+  text-transform: capitalize;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.eng {
+  color: #333;
+  font-size: 2.3em;
+  padding-top: 50%;
+}
+
+.meaning {
+  color: #333;
+  font-size: 2.2em;
+  padding-top: 50%;
+}
+p {
+  color: whitesmoke;
+  padding-top: 50px;
+}
